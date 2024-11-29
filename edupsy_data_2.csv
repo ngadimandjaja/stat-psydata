@@ -1,0 +1,301 @@
+Respondent_ID;Age;Gender;Education_Level;Years_of_Study;GPA;Study_Hours_Per_Week;Learning_Style;Motivation_Level_Before;Motivation_Level_Mid_Semester;Motivation_Level_End_Semester;Anxiety_Level_Before;Anxiety_Level_Mid_Semester;Anxiety_Level_End_Semester;Satisfaction_with_Education_Before;Satisfaction_with_Education_Mid_Semester;Satisfaction_with_Education_End_Semester
+1;32;Male;Master;2;0.13;10;Visual;9;10;10;5;7;9;2;5;6
+2;36;Other;Master;2;3.75;17;Visual;5;8;10;3;5;7;2;4;6
+3;31;Female;Master;4;3.48;30;Auditory;8;10;10;5;8;9;2;6;8
+4;20;Other;Bachelor;4;2.4;11;Visual;4;7;10;3;5;8;1;5;8
+5;27;Female;Associate;1;1.2;6;Kinesthetic;2;6;8;5;8;10;1;4;7
+6;35;Male;Associate;3;3.24;2;Visual;1;5;6;3;7;8;1;5;6
+7;39;Female;Bachelor;1;3.81;26;Visual;3;8;10;4;8;10;1;5;7
+8;28;Other;Doctorate;3;3.41;13;Kinesthetic;7;10;10;4;8;10;2;5;6
+9;22;Female;Master;3;0.51;17;Kinesthetic;8;10;10;3;6;9;2;4;6
+10;37;Other;Bachelor;6;3.88;30;Visual;5;9;10;1;5;7;5;9;10
+11;31;Other;Bachelor;3;2.23;15;Auditory;2;6;8;4;6;7;5;9;10
+12;39;Male;High School;6;0.02;16;Visual;9;10;10;1;5;8;2;4;5
+13;22;Female;Doctorate;5;0.54;5;Visual;10;10;10;3;6;8;2;4;7
+14;36;Male;Doctorate;2;0.02;29;Auditory;5;10;10;5;9;10;3;6;7
+15;26;Female;High School;6;3.27;5;Auditory;6;10;10;3;6;8;1;3;4
+16;20;Female;High School;1;3.13;3;Kinesthetic;10;10;10;4;7;10;2;5;8
+17;25;Female;High School;5;3.72;20;Auditory;6;10;10;3;5;7;2;5;7
+18;24;Female;Doctorate;3;1.47;28;Auditory;7;10;10;1;3;6;3;5;7
+19;27;Male;Doctorate;3;3.9;4;Kinesthetic;4;9;10;4;7;10;1;3;4
+20;26;Female;Master;6;3.29;28;Auditory;6;10;10;1;3;5;2;4;5
+21;36;Male;Associate;3;3.15;13;Visual;6;10;10;2;6;8;1;3;4
+22;21;Female;Associate;3;2.49;9;Visual;9;10;10;2;5;8;5;7;8
+23;31;Male;Master;6;3.87;7;Visual;3;8;10;3;5;7;4;6;7
+24;34;Other;Associate;1;2;21;Kinesthetic;5;8;10;1;5;7;2;6;8
+25;28;Female;High School;3;3.57;9;Auditory;10;10;10;3;5;7;4;8;10
+26;24;Male;Bachelor;3;1.6;22;Kinesthetic;5;8;10;4;6;8;5;9;10
+27;38;Other;Doctorate;6;1.79;29;Kinesthetic;9;10;10;1;5;6;3;6;8
+28;29;Female;Bachelor;2;3.74;13;Auditory;6;10;10;3;6;9;1;3;4
+29;32;Other;High School;5;2.73;28;Auditory;1;5;8;4;7;9;4;7;8
+30;27;Female;Associate;5;0.07;14;Auditory;3;6;8;2;6;9;3;5;7
+31;30;Other;Master;2;0.66;18;Visual;8;10;10;2;5;7;2;6;9
+32;24;Other;Master;5;1.98;0;Kinesthetic;2;4;5;3;6;8;4;7;10
+33;26;Male;High School;2;1.71;1;Kinesthetic;3;8;10;4;6;9;1;5;8
+34;26;Female;Doctorate;3;3.97;14;Kinesthetic;10;10;10;4;7;9;4;8;10
+35;27;Other;High School;1;3.56;9;Kinesthetic;1;6;8;3;7;10;3;6;7
+36;40;Male;Master;3;1.38;4;Auditory;7;10;10;1;4;7;1;4;5
+37;38;Male;Bachelor;6;2.82;4;Auditory;3;6;8;4;8;10;2;4;5
+38;24;Other;Master;6;3.63;22;Visual;5;7;9;5;7;9;5;9;10
+39;38;Female;Doctorate;3;2.71;16;Auditory;8;10;10;2;5;8;3;7;8
+40;23;Other;Doctorate;5;2.56;16;Kinesthetic;9;10;10;3;6;8;2;5;6
+41;19;Female;Master;5;0.6;25;Visual;1;4;5;3;5;6;4;7;9
+42;22;Female;Bachelor;2;2.4;17;Kinesthetic;1;6;9;2;5;8;3;5;8
+43;25;Female;Bachelor;4;1.09;1;Auditory;1;5;8;5;7;10;4;7;8
+44;29;Male;Associate;3;1.83;26;Kinesthetic;5;7;9;2;5;7;3;7;8
+45;30;Female;Doctorate;5;0.89;30;Auditory;8;10;10;4;8;10;1;4;6
+46;35;Male;Doctorate;1;1.02;29;Visual;5;8;10;2;5;6;4;6;8
+47;18;Male;High School;1;2.61;10;Visual;4;8;9;5;9;10;2;4;6
+48;23;Male;Bachelor;5;1.89;4;Visual;4;7;10;5;8;9;4;8;9
+49;38;Female;Associate;3;0.64;16;Auditory;5;10;10;2;5;6;1;5;7
+50;32;Female;Bachelor;2;1.09;30;Visual;8;10;10;2;5;6;4;8;10
+51;26;Other;Master;6;2.85;13;Auditory;9;10;10;2;6;9;4;6;8
+52;32;Other;Associate;5;2.45;2;Visual;2;6;8;5;8;10;3;7;9
+53;33;Male;Doctorate;6;0.53;9;Kinesthetic;8;10;10;3;7;9;1;5;6
+54;37;Female;Bachelor;4;0.28;12;Visual;3;8;10;1;3;5;2;4;6
+55;23;Female;Bachelor;1;3.87;24;Kinesthetic;3;7;8;5;7;8;2;4;5
+56;28;Other;Associate;5;1.47;29;Kinesthetic;5;8;10;1;4;7;5;7;9
+57;25;Other;Associate;5;2.71;30;Auditory;8;10;10;1;5;6;4;6;8
+58;39;Other;Master;1;3.38;18;Auditory;5;9;10;1;5;8;3;6;8
+59;39;Other;Associate;1;0.97;1;Auditory;7;10;10;2;6;8;1;3;5
+60;24;Female;High School;5;0.14;27;Kinesthetic;10;10;10;3;6;8;1;3;5
+61;33;Male;Master;6;2.38;16;Visual;9;10;10;5;8;9;5;9;10
+62;34;Male;High School;6;3.34;8;Visual;8;10;10;4;7;10;1;4;6
+63;39;Other;Doctorate;6;1.45;18;Kinesthetic;10;10;10;2;4;6;4;7;9
+64;35;Male;Associate;4;1.33;17;Visual;6;10;10;4;7;10;2;6;8
+65;34;Female;Doctorate;6;2.58;8;Visual;6;9;10;5;8;9;3;5;6
+66;19;Female;Associate;6;3.83;29;Visual;4;7;9;1;3;4;4;7;8
+67;21;Other;Associate;6;2.38;25;Auditory;9;10;10;3;6;9;4;8;10
+68;30;Female;Bachelor;5;2.04;26;Visual;9;10;10;5;7;10;1;4;7
+69;22;Male;Associate;6;0.62;25;Auditory;5;10;10;1;4;5;2;4;7
+70;39;Other;Bachelor;4;3.38;21;Kinesthetic;1;4;5;4;8;9;4;7;9
+71;36;Male;Bachelor;5;0.86;13;Visual;9;10;10;3;7;10;2;4;7
+72;37;Male;High School;5;2.68;14;Kinesthetic;10;10;10;5;8;10;5;8;9
+73;39;Other;High School;6;2.47;5;Visual;8;10;10;5;9;10;3;5;8
+74;31;Female;Doctorate;1;0.2;7;Kinesthetic;5;8;10;3;5;7;3;6;7
+75;40;Male;High School;2;3.8;27;Kinesthetic;9;10;10;1;4;5;2;4;6
+76;20;Male;Doctorate;6;2.33;19;Auditory;7;10;10;3;7;10;4;7;8
+77;25;Female;High School;5;3.44;1;Visual;10;10;10;2;5;7;2;5;7
+78;33;Female;Associate;1;2.07;0;Kinesthetic;9;10;10;3;5;7;2;4;7
+79;29;Female;High School;5;1.06;17;Kinesthetic;5;9;10;5;7;10;1;5;6
+80;31;Female;Bachelor;4;2.39;6;Visual;10;10;10;5;8;10;5;9;10
+81;20;Male;Bachelor;6;3.18;26;Auditory;8;10;10;2;5;7;3;5;8
+82;31;Other;Master;3;2.76;6;Auditory;7;10;10;2;5;6;5;8;10
+83;24;Other;Associate;4;1.92;3;Auditory;3;5;6;2;6;8;4;6;8
+84;20;Female;Master;3;1.86;4;Kinesthetic;9;10;10;1;4;6;3;6;8
+85;40;Other;Bachelor;1;2.47;10;Kinesthetic;9;10;10;3;5;8;1;4;6
+86;39;Other;High School;1;1.8;30;Kinesthetic;5;7;8;5;8;10;2;6;8
+87;32;Other;Bachelor;1;2.41;26;Visual;2;6;9;3;5;6;3;7;10
+88;38;Female;Master;5;0.02;30;Auditory;4;6;8;2;4;7;4;6;7
+89;22;Other;Associate;6;3.98;9;Auditory;4;6;8;4;8;10;2;6;7
+90;25;Other;Doctorate;6;1.63;10;Visual;8;10;10;2;4;7;2;6;7
+91;36;Female;Associate;6;0.47;27;Visual;8;10;10;4;6;9;3;5;7
+92;27;Female;High School;1;3.48;0;Visual;1;4;6;5;7;9;2;5;8
+93;35;Other;Associate;4;2.16;26;Auditory;5;10;10;1;4;5;3;7;9
+94;27;Female;Bachelor;5;3.53;9;Kinesthetic;2;5;7;3;7;10;2;6;7
+95;29;Other;Bachelor;2;0.15;24;Kinesthetic;9;10;10;5;7;10;5;9;10
+96;19;Female;Associate;1;3.53;22;Kinesthetic;1;4;7;2;5;6;3;7;9
+97;27;Female;Associate;4;2.89;20;Kinesthetic;10;10;10;1;4;7;4;6;7
+98;39;Male;Master;5;3.08;11;Visual;1;3;6;3;6;7;2;6;9
+99;29;Female;Doctorate;6;3.45;6;Visual;5;9;10;5;8;10;5;9;10
+100;37;Other;Associate;3;2;29;Kinesthetic;7;10;10;2;4;7;5;8;10
+101;31;Male;Bachelor;1;3.7;4;Visual;6;10;10;3;5;6;3;5;7
+102;34;Male;High School;6;0.83;17;Visual;1;4;5;1;3;6;5;7;10
+103;31;Other;Doctorate;4;0.11;7;Visual;6;10;10;1;5;7;5;8;10
+104;39;Female;Bachelor;4;1.26;14;Kinesthetic;4;9;10;2;6;9;2;6;8
+105;20;Male;Associate;1;2.64;6;Kinesthetic;10;10;10;2;6;7;5;8;10
+106;25;Male;High School;6;1.26;13;Auditory;7;10;10;1;3;5;5;8;10
+107;31;Other;Master;6;3.78;9;Kinesthetic;2;7;10;3;6;9;1;5;6
+108;36;Other;Master;1;3.12;23;Auditory;7;9;10;2;4;6;1;4;6
+109;32;Other;Bachelor;3;1.36;15;Auditory;2;4;6;3;5;7;3;6;8
+110;34;Male;High School;4;1.93;24;Auditory;9;10;10;1;4;7;2;6;7
+111;40;Female;Associate;5;1.66;2;Auditory;1;4;5;2;4;5;1;4;6
+112;28;Female;Bachelor;6;3.11;21;Kinesthetic;8;10;10;3;7;10;1;3;5
+113;24;Other;High School;1;1.94;22;Auditory;2;4;6;3;6;9;4;6;9
+114;32;Other;High School;1;0.06;10;Kinesthetic;8;10;10;2;6;8;4;7;10
+115;40;Other;Associate;5;2.57;28;Auditory;8;10;10;2;6;8;4;7;9
+116;23;Other;Associate;3;0.94;26;Visual;7;9;10;5;9;10;1;3;5
+117;31;Female;Master;4;2.99;30;Visual;4;8;10;3;5;7;2;5;6
+118;24;Male;Bachelor;3;1.18;29;Kinesthetic;2;4;5;5;9;10;2;6;8
+119;27;Other;Associate;6;3.62;2;Visual;8;10;10;1;3;4;2;4;7
+120;22;Female;Associate;2;3.41;7;Auditory;9;10;10;2;4;5;5;9;10
+121;23;Male;Doctorate;2;1.85;30;Auditory;6;10;10;2;4;5;5;7;9
+122;33;Other;High School;4;0.29;27;Auditory;10;10;10;1;5;8;3;6;7
+123;38;Other;Bachelor;3;2.31;26;Visual;5;8;10;1;5;7;2;6;9
+124;40;Other;Associate;2;2.32;26;Kinesthetic;8;10;10;3;5;8;4;8;10
+125;28;Female;Associate;4;3.97;16;Kinesthetic;4;6;8;4;6;7;4;8;10
+126;21;Male;Master;4;1.34;24;Auditory;9;10;10;1;3;5;4;6;7
+127;29;Female;Master;5;2.67;27;Auditory;3;7;9;1;4;7;3;7;8
+128;31;Other;Master;5;3.75;27;Auditory;2;6;7;5;7;9;1;3;4
+129;36;Male;Doctorate;1;2.3;21;Kinesthetic;3;8;10;2;5;8;5;9;10
+130;24;Female;Doctorate;5;2.77;12;Visual;1;4;7;2;4;6;4;7;9
+131;39;Male;Master;3;0.36;14;Auditory;8;10;10;2;5;7;3;7;8
+132;26;Female;Master;6;3.47;11;Kinesthetic;10;10;10;5;7;8;2;6;8
+133;24;Female;Associate;2;2;8;Visual;3;7;10;5;7;10;1;4;6
+134;19;Other;Doctorate;1;0.89;18;Kinesthetic;6;10;10;4;6;7;3;5;7
+135;33;Female;Associate;1;1.65;18;Kinesthetic;8;10;10;1;3;5;5;8;9
+136;30;Female;Associate;3;3.55;30;Auditory;1;5;8;4;8;10;4;8;10
+137;36;Female;Master;2;1.98;5;Kinesthetic;4;6;7;5;7;8;1;4;7
+138;37;Female;Doctorate;2;2.69;12;Kinesthetic;3;6;8;1;4;7;5;9;10
+139;32;Female;Bachelor;6;1.13;8;Auditory;2;4;6;1;4;6;1;4;7
+140;24;Other;Bachelor;3;3.27;10;Visual;3;5;6;3;6;7;5;8;9
+141;21;Male;Associate;5;0.98;24;Visual;7;10;10;3;6;9;5;8;10
+142;18;Male;Associate;5;1.48;13;Kinesthetic;5;10;10;3;5;8;3;6;9
+143;25;Other;High School;5;0.94;18;Visual;3;5;6;2;6;7;4;8;10
+144;37;Other;Bachelor;6;3.74;27;Kinesthetic;6;9;10;4;6;8;4;6;7
+145;33;Other;Doctorate;4;1.66;29;Kinesthetic;4;7;8;3;5;8;5;7;10
+146;39;Other;Bachelor;1;0.55;20;Auditory;7;10;10;2;4;5;1;3;4
+147;28;Female;Doctorate;6;3.66;22;Kinesthetic;5;8;10;5;9;10;4;6;7
+148;33;Male;High School;6;1.39;17;Visual;10;10;10;2;5;7;5;9;10
+149;37;Male;Associate;2;3.41;21;Visual;4;8;10;3;5;7;1;5;6
+150;25;Other;Master;4;0.57;23;Visual;9;10;10;1;4;5;2;5;7
+151;20;Female;Bachelor;5;1.44;20;Kinesthetic;10;10;10;5;9;10;5;7;10
+152;21;Female;Doctorate;2;0.98;12;Visual;2;7;10;3;6;8;3;6;9
+153;37;Other;Doctorate;4;0.18;11;Auditory;2;5;7;1;3;5;5;7;9
+154;29;Male;Doctorate;1;3.14;18;Visual;2;6;9;4;8;9;5;7;8
+155;39;Other;Master;5;0.8;11;Auditory;5;10;10;4;7;10;4;7;10
+156;34;Other;Bachelor;6;1.57;25;Visual;5;9;10;5;9;10;5;7;10
+157;27;Male;Bachelor;4;1.29;20;Auditory;5;10;10;4;7;10;2;5;6
+158;37;Male;Associate;5;2.41;19;Auditory;4;7;9;2;6;8;3;5;7
+159;28;Other;Associate;2;2.17;3;Auditory;10;10;10;2;6;8;1;3;4
+160;40;Other;Associate;6;3.96;28;Kinesthetic;7;10;10;1;3;5;5;8;10
+161;25;Female;Associate;5;1.02;27;Kinesthetic;3;7;8;4;8;9;1;4;6
+162;31;Female;Associate;6;2.94;22;Auditory;8;10;10;1;3;6;1;4;5
+163;38;Other;Bachelor;4;3.91;26;Auditory;2;6;7;2;6;8;3;7;8
+164;30;Female;High School;1;2.23;15;Auditory;10;10;10;2;6;7;5;7;9
+165;19;Other;High School;2;1.57;16;Kinesthetic;5;7;10;2;5;8;1;3;6
+166;28;Other;High School;6;3.3;11;Visual;4;6;8;2;6;8;3;5;7
+167;30;Female;High School;2;0.45;1;Kinesthetic;6;10;10;1;3;5;4;7;10
+168;31;Other;Bachelor;2;2.14;4;Visual;7;10;10;2;6;7;2;4;5
+169;23;Other;High School;6;1.78;18;Auditory;5;10;10;2;5;8;3;6;8
+170;25;Male;Associate;5;1.1;12;Kinesthetic;2;4;5;5;7;9;5;8;9
+171;29;Other;Bachelor;5;0.63;6;Auditory;9;10;10;2;6;9;4;8;10
+172;21;Male;Master;3;3.49;29;Auditory;1;4;6;3;7;8;4;6;8
+173;30;Female;Master;2;2.25;23;Visual;7;10;10;5;7;9;2;4;6
+174;31;Male;Bachelor;6;2.2;4;Auditory;8;10;10;2;4;6;5;9;10
+175;38;Other;Master;6;2.37;6;Kinesthetic;3;8;10;4;8;9;1;5;7
+176;33;Other;Associate;2;2.91;15;Auditory;1;5;6;5;7;9;5;9;10
+177;40;Female;Bachelor;3;2.56;11;Kinesthetic;1;4;6;4;6;9;3;6;7
+178;18;Female;Master;6;2.46;10;Kinesthetic;5;9;10;1;4;5;5;8;10
+179;25;Male;Bachelor;3;0.21;18;Auditory;1;3;4;2;6;9;1;4;7
+180;25;Female;Master;3;2.26;5;Visual;8;10;10;2;4;6;1;3;6
+181;27;Other;Doctorate;4;2.35;23;Visual;3;8;9;4;6;9;3;5;6
+182;25;Other;High School;1;2.51;25;Auditory;4;9;10;4;8;10;3;6;8
+183;35;Other;Doctorate;5;2.49;11;Kinesthetic;8;10;10;5;8;9;2;4;6
+184;38;Female;Master;6;0.33;12;Auditory;10;10;10;1;4;5;2;4;6
+185;26;Male;Doctorate;2;0.31;5;Visual;3;5;8;2;5;8;2;4;5
+186;24;Female;High School;1;2.75;9;Kinesthetic;7;10;10;3;6;8;4;7;10
+187;24;Other;High School;1;3.32;7;Visual;5;8;10;2;4;6;3;7;9
+188;27;Female;High School;1;0.58;9;Visual;1;5;7;5;8;9;4;8;9
+189;39;Other;Associate;6;3.13;5;Kinesthetic;5;9;10;2;6;7;1;5;8
+190;40;Other;Associate;5;1.95;26;Visual;2;7;8;1;4;6;4;6;8
+191;28;Male;Master;1;3.96;18;Auditory;9;10;10;5;9;10;4;6;9
+192;18;Female;High School;6;2;28;Kinesthetic;7;10;10;5;7;9;2;4;7
+193;36;Female;Associate;2;2.25;29;Kinesthetic;4;7;9;4;7;8;3;6;7
+194;27;Female;High School;4;1.51;22;Kinesthetic;4;7;10;4;6;8;3;7;10
+195;38;Female;Bachelor;2;2.07;16;Kinesthetic;3;5;6;4;8;9;4;8;10
+196;39;Female;Bachelor;5;0.3;21;Kinesthetic;10;10;10;4;8;10;3;6;7
+197;30;Male;High School;2;2.15;20;Auditory;4;7;9;1;5;8;2;6;7
+198;28;Male;Master;2;3.84;1;Visual;1;6;8;4;8;10;2;6;9
+199;28;Other;Bachelor;5;2.11;22;Kinesthetic;4;8;10;5;8;10;3;6;8
+200;37;Male;Doctorate;4;1.75;18;Auditory;3;7;9;4;8;9;5;7;10
+201;24;Other;Associate;3;0.13;18;Visual;7;10;10;5;7;8;1;5;6
+202;40;Other;Master;6;0.15;19;Visual;10;10;10;3;5;8;5;8;10
+203;37;Female;Associate;5;0.19;12;Kinesthetic;7;10;10;2;6;9;1;4;6
+204;26;Other;Associate;6;0.64;0;Auditory;7;10;10;4;8;10;3;5;7
+205;26;Female;High School;3;1.88;5;Auditory;5;9;10;4;6;9;3;7;9
+206;22;Male;High School;4;3.22;4;Auditory;10;10;10;3;5;8;2;6;9
+207;40;Male;Bachelor;1;1.12;17;Auditory;6;8;10;2;6;8;1;5;7
+208;31;Female;Doctorate;6;3.02;6;Auditory;5;9;10;3;6;9;3;6;8
+209;31;Male;Doctorate;4;2.09;25;Visual;5;7;10;3;5;7;3;7;9
+210;23;Other;High School;6;1.16;16;Kinesthetic;10;10;10;5;8;10;2;4;5
+211;18;Female;Master;2;0.07;14;Kinesthetic;9;10;10;5;9;10;1;3;5
+212;27;Female;Associate;1;2.67;4;Kinesthetic;1;5;8;4;8;10;1;5;6
+213;34;Other;Bachelor;6;0.27;4;Auditory;5;10;10;2;4;5;4;8;10
+214;34;Male;Bachelor;5;3.35;26;Kinesthetic;4;9;10;2;4;5;2;6;7
+215;38;Male;Associate;3;0.54;12;Auditory;7;10;10;3;7;8;2;5;6
+216;24;Female;Doctorate;4;2.62;7;Visual;1;6;8;5;8;9;4;7;9
+217;38;Other;Master;4;3.35;18;Visual;9;10;10;2;5;6;2;5;7
+218;26;Male;High School;1;1.03;0;Kinesthetic;6;10;10;2;4;5;3;7;9
+219;37;Male;Master;4;0.54;3;Kinesthetic;7;9;10;2;6;9;2;4;6
+220;23;Other;Bachelor;4;3.05;23;Kinesthetic;10;10;10;2;4;6;4;7;9
+221;35;Other;Doctorate;3;0.85;17;Auditory;7;10;10;2;6;7;3;5;8
+222;34;Female;Doctorate;1;1.07;3;Visual;7;9;10;1;5;6;4;6;9
+223;22;Male;Master;5;2.13;7;Visual;9;10;10;2;5;8;1;4;7
+224;37;Other;Doctorate;4;1.9;27;Visual;4;9;10;1;3;4;5;9;10
+225;20;Other;High School;6;1.49;23;Visual;10;10;10;4;8;10;4;8;9
+226;31;Other;Doctorate;3;3.1;20;Visual;3;7;9;1;4;6;3;7;8
+227;18;Male;Master;4;2.23;21;Auditory;9;10;10;5;7;8;2;5;6
+228;19;Other;Doctorate;4;0.62;22;Visual;7;9;10;1;3;5;5;9;10
+229;21;Other;Doctorate;4;3.96;24;Auditory;1;3;5;5;9;10;1;4;7
+230;27;Male;Doctorate;3;0.98;22;Auditory;4;9;10;4;7;8;1;5;7
+231;18;Female;Bachelor;3;0.52;3;Kinesthetic;9;10;10;1;5;7;4;8;10
+232;22;Male;Master;3;0.85;17;Visual;1;5;6;1;5;7;4;8;10
+233;38;Female;Doctorate;4;1.52;13;Kinesthetic;5;7;8;2;5;8;5;7;9
+234;25;Female;Doctorate;6;1.44;27;Kinesthetic;1;3;6;4;7;9;2;6;8
+235;40;Male;Master;3;1.21;30;Visual;7;9;10;1;3;4;2;6;7
+236;38;Other;Master;3;0.18;11;Auditory;5;10;10;1;3;4;5;7;9
+237;30;Male;Bachelor;2;3.74;10;Kinesthetic;1;6;7;3;7;10;5;9;10
+238;35;Female;Bachelor;4;2.27;23;Auditory;8;10;10;2;5;8;5;9;10
+239;27;Female;Master;6;0.88;29;Visual;1;6;8;1;5;6;1;5;6
+240;23;Male;High School;4;3.51;10;Kinesthetic;4;6;8;2;5;6;5;7;10
+241;24;Female;Master;2;1.87;29;Auditory;7;9;10;1;3;6;2;6;7
+242;26;Male;Associate;6;2.17;23;Visual;3;7;10;4;6;8;4;8;10
+243;33;Male;Associate;4;3.14;16;Kinesthetic;7;9;10;2;5;6;4;8;9
+244;34;Female;Master;5;2.59;22;Visual;5;8;10;2;6;8;3;6;9
+245;38;Female;High School;4;0.58;1;Auditory;6;10;10;2;5;8;2;4;7
+246;30;Female;High School;1;1.29;9;Auditory;6;10;10;2;4;6;1;4;7
+247;38;Female;Associate;5;3.8;21;Visual;3;7;10;5;9;10;2;4;7
+248;25;Other;Master;3;0.75;3;Kinesthetic;7;10;10;2;4;7;2;5;7
+249;38;Male;Doctorate;3;3;5;Visual;10;10;10;2;4;6;1;4;7
+250;24;Male;Bachelor;1;1.84;9;Kinesthetic;3;6;9;4;8;10;2;5;8
+251;37;Male;High School;1;0.57;18;Auditory;5;10;10;4;8;10;2;6;7
+252;35;Male;Bachelor;3;0.82;27;Kinesthetic;4;7;9;4;8;10;1;5;7
+253;34;Other;Bachelor;4;2.7;5;Kinesthetic;3;5;7;5;8;10;5;7;10
+254;18;Female;Associate;4;0.55;26;Kinesthetic;4;8;9;2;4;6;1;5;8
+255;19;Male;Master;3;1.66;8;Visual;10;10;10;4;7;8;1;3;4
+256;34;Male;High School;5;1.8;27;Visual;8;10;10;5;7;8;5;9;10
+257;19;Other;Bachelor;1;2.49;27;Visual;4;6;7;2;6;9;3;7;9
+258;30;Other;Doctorate;5;1;23;Visual;1;5;8;2;5;8;4;6;9
+259;34;Male;Doctorate;1;1.86;15;Auditory;10;10;10;4;8;10;4;6;7
+260;20;Male;Doctorate;1;0.66;12;Auditory;9;10;10;4;6;7;4;6;7
+261;35;Female;Associate;4;3.43;8;Visual;9;10;10;1;4;6;5;8;10
+262;19;Other;Doctorate;6;0.63;30;Visual;5;7;9;1;5;8;1;3;5
+263;22;Male;Doctorate;3;0.35;6;Auditory;5;7;10;2;4;5;2;4;5
+264;29;Male;High School;4;3.57;18;Visual;7;10;10;1;5;6;3;7;8
+265;30;Other;Doctorate;3;1.2;23;Kinesthetic;5;9;10;1;5;7;5;9;10
+266;27;Male;High School;1;3.01;9;Auditory;8;10;10;2;4;5;1;5;6
+267;23;Female;Associate;2;1.61;17;Visual;6;9;10;2;5;8;3;7;10
+268;27;Female;High School;6;1.79;23;Visual;1;6;7;2;5;7;1;4;6
+269;27;Other;High School;3;0.64;23;Auditory;6;10;10;3;7;9;5;7;8
+270;23;Male;Associate;3;0.58;7;Visual;2;4;6;3;7;9;3;6;7
+271;33;Other;Master;6;0.6;27;Kinesthetic;4;9;10;4;8;9;5;7;8
+272;33;Male;Doctorate;1;2.06;15;Kinesthetic;6;9;10;3;6;8;2;4;5
+273;20;Other;Associate;1;1.97;27;Visual;5;10;10;4;6;8;5;8;10
+274;21;Other;Associate;1;2.47;14;Kinesthetic;3;5;7;2;6;8;2;6;8
+275;20;Male;Associate;1;1.79;17;Visual;1;5;8;3;6;8;1;5;7
+276;40;Other;Master;2;0.22;28;Kinesthetic;10;10;10;5;8;10;5;9;10
+277;20;Other;Doctorate;2;0.02;28;Kinesthetic;4;9;10;2;4;6;5;7;8
+278;33;Other;Associate;6;0.89;16;Auditory;10;10;10;1;3;5;1;3;5
+279;19;Other;Bachelor;1;3.4;29;Auditory;4;7;9;2;5;6;4;8;10
+280;32;Other;High School;2;1.07;24;Auditory;10;10;10;1;5;6;1;3;4
+281;40;Female;Master;4;2.39;15;Kinesthetic;8;10;10;3;5;7;2;6;7
+282;20;Other;Bachelor;1;2.43;4;Kinesthetic;6;8;10;4;7;8;5;7;8
+283;26;Female;Bachelor;3;3.97;22;Kinesthetic;8;10;10;2;6;8;5;9;10
+284;24;Other;Bachelor;3;0.76;2;Visual;10;10;10;3;7;10;3;7;10
+285;26;Female;Associate;5;3.01;5;Kinesthetic;6;9;10;5;8;9;3;7;9
+286;21;Male;Master;6;0.97;23;Auditory;4;6;9;4;7;10;5;8;10
+287;19;Male;Master;6;1.31;24;Visual;7;10;10;4;6;8;1;5;8
+288;39;Other;Associate;2;0.01;18;Kinesthetic;8;10;10;1;5;7;3;5;7
+289;29;Male;Bachelor;4;3.99;10;Visual;5;9;10;2;6;8;1;4;5
+290;26;Female;High School;4;1.75;10;Kinesthetic;10;10;10;5;7;8;4;8;9
+291;28;Male;Master;2;3.99;11;Kinesthetic;4;9;10;3;5;7;4;6;7
+292;24;Female;High School;1;0.79;0;Visual;7;10;10;5;8;10;3;6;8
+293;30;Female;High School;2;0.45;29;Visual;9;10;10;4;7;9;3;7;9
+294;22;Male;Master;5;1;7;Visual;4;7;10;5;7;8;4;7;8
+295;28;Male;Bachelor;2;2.72;6;Visual;5;10;10;4;7;9;4;7;8
+296;18;Female;Doctorate;5;2.31;14;Kinesthetic;1;5;8;1;3;4;5;7;8
+297;36;Other;Associate;6;1.67;4;Auditory;2;6;7;3;7;10;2;5;8
+298;29;Male;Doctorate;1;2.92;2;Visual;8;10;10;3;5;7;2;4;5
+299;19;Female;Associate;3;2.3;6;Auditory;7;10;10;4;6;8;4;7;9
+300;38;Male;Master;6;2.31;12;Visual;5;10;10;1;5;8;5;7;10
