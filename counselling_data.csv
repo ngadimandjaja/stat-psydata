@@ -1,0 +1,1501 @@
+"Participant_ID","Group","Pre_Test_Score","Post_Test_Score","Follow_Up_Score","Age","Gender","Anxiety_Score","Depression_Score","Sleep_Hours","Exercise_Frequency","Social_Support_Score","Treatment_Success"
+1,"Control",24,25,26,32,"Female",19,15,6,5,44,0
+2,"Cognitive Behavioral Therapy",25,31,32,25,"Female",14,10,7,4,45,1
+3,"Mindfulness Meditation",27,32,32,35,"Male",15,10,6,5,58,1
+4,"Control",25,26,27,23,"Other",13,11,6,6,46,0
+5,"Cognitive Behavioral Therapy",25,31,33,32,"Other",15,12,8,3,43,1
+6,"Mindfulness Meditation",27,32,33,34,"Other",20,17,7,3,46,1
+7,"Control",25,26,27,34,"Female",18,16,7,3,41,0
+8,"Cognitive Behavioral Therapy",24,30,31,27,"Other",17,14,6,5,59,1
+9,"Mindfulness Meditation",24,28,29,31,"Male",16,14,7,6,58,0
+10,"Control",25,26,27,17,"Male",14,11,7,5,56,0
+11,"Cognitive Behavioral Therapy",26,32,34,30,"Female",10,6,6,3,59,1
+12,"Mindfulness Meditation",25,30,31,27,"Other",17,15,6,3,53,1
+13,"Control",25,26,26,31,"Other",15,13,7,6,58,0
+14,"Cognitive Behavioral Therapy",25,31,32,29,"Female",13,11,7,3,43,1
+15,"Mindfulness Meditation",24,29,30,34,"Other",19,16,6,3,46,1
+16,"Control",27,28,30,27,"Male",18,15,6,6,54,0
+17,"Cognitive Behavioral Therapy",25,30,31,32,"Female",19,15,7,5,58,1
+18,"Mindfulness Meditation",23,28,30,27,"Female",17,16,6,4,41,1
+19,"Control",26,27,28,31,"Other",13,10,8,5,48,0
+20,"Cognitive Behavioral Therapy",25,31,32,22,"Other",14,11,7,6,57,1
+21,"Mindfulness Meditation",24,30,31,31,"Female",9,8,7,7,52,1
+22,"Control",25,26,27,26,"Other",14,13,7,4,48,0
+23,"Cognitive Behavioral Therapy",24,31,33,30,"Female",10,6,7,4,43,1
+24,"Mindfulness Meditation",24,29,30,24,"Female",15,12,7,6,50,1
+25,"Control",24,25,25,31,"Other",15,12,8,4,55,0
+26,"Cognitive Behavioral Therapy",23,29,30,43,"Male",13,11,6,4,59,1
+27,"Mindfulness Meditation",26,31,31,36,"Female",15,12,6,6,41,1
+28,"Control",25,25,25,33,"Male",10,7,7,6,59,0
+29,"Cognitive Behavioral Therapy",24,31,32,25,"Male",16,13,7,4,42,1
+30,"Mindfulness Meditation",26,31,32,30,"Female",21,18,7,4,43,1
+31,"Control",25,27,28,27,"Other",17,13,7,6,42,0
+32,"Cognitive Behavioral Therapy",25,31,31,18,"Male",20,17,7,3,53,1
+33,"Mindfulness Meditation",26,31,32,27,"Male",15,12,8,6,58,1
+34,"Control",26,27,27,26,"Male",14,11,8,4,60,0
+35,"Cognitive Behavioral Therapy",26,32,33,28,"Male",18,15,7,4,41,1
+36,"Mindfulness Meditation",26,31,32,25,"Female",17,15,8,5,54,1
+37,"Control",26,27,27,31,"Male",17,14,7,6,54,0
+38,"Cognitive Behavioral Therapy",25,32,33,38,"Male",15,13,7,7,53,1
+39,"Mindfulness Meditation",25,30,32,34,"Other",15,11,6,4,56,1
+40,"Control",25,26,27,31,"Other",16,15,8,6,51,0
+41,"Cognitive Behavioral Therapy",24,30,31,28,"Female",15,11,8,6,59,1
+42,"Mindfulness Meditation",25,31,32,28,"Other",17,14,7,6,52,1
+43,"Control",24,25,26,34,"Other",14,12,7,4,60,0
+44,"Cognitive Behavioral Therapy",27,33,35,34,"Other",12,9,7,4,42,1
+45,"Mindfulness Meditation",26,30,31,25,"Male",19,15,6,7,42,0
+46,"Control",24,26,26,33,"Male",13,9,7,4,40,0
+47,"Cognitive Behavioral Therapy",25,31,32,22,"Other",16,14,7,6,57,1
+48,"Mindfulness Meditation",25,30,31,22,"Male",9,8,7,6,41,1
+49,"Control",26,26,27,36,"Female",13,12,6,5,42,0
+50,"Cognitive Behavioral Therapy",25,31,31,28,"Other",22,21,7,5,49,1
+51,"Mindfulness Meditation",25,30,31,28,"Other",15,13,8,3,50,1
+52,"Control",25,26,28,33,"Male",17,14,6,4,49,0
+53,"Cognitive Behavioral Therapy",25,31,32,27,"Male",17,14,7,7,57,1
+54,"Mindfulness Meditation",26,31,31,24,"Male",11,9,7,6,42,1
+55,"Control",25,26,27,29,"Other",18,14,8,5,46,0
+56,"Cognitive Behavioral Therapy",27,33,34,19,"Male",12,7,7,5,48,1
+57,"Mindfulness Meditation",23,29,30,26,"Other",17,15,7,3,51,1
+58,"Control",26,26,28,27,"Female",11,7,6,7,49,0
+59,"Cognitive Behavioral Therapy",25,31,31,21,"Male",15,13,8,5,59,1
+60,"Mindfulness Meditation",25,30,31,29,"Female",17,12,6,4,46,1
+61,"Control",25,26,27,24,"Female",14,8,7,5,51,0
+62,"Cognitive Behavioral Therapy",24,30,30,34,"Other",15,12,7,4,41,1
+63,"Mindfulness Meditation",25,30,31,27,"Male",17,13,7,4,45,1
+64,"Control",24,25,26,23,"Other",17,14,7,4,47,0
+65,"Cognitive Behavioral Therapy",24,30,32,29,"Male",20,17,8,6,54,1
+66,"Mindfulness Meditation",25,30,30,28,"Male",23,19,6,6,45,1
+67,"Control",25,26,28,28,"Other",15,12,8,4,44,0
+68,"Cognitive Behavioral Therapy",25,31,33,29,"Male",19,15,6,5,56,1
+69,"Mindfulness Meditation",26,31,32,26,"Male",17,13,7,5,49,1
+70,"Control",27,28,29,26,"Female",15,12,8,4,47,0
+71,"Cognitive Behavioral Therapy",25,31,32,31,"Female",15,13,6,3,56,1
+72,"Mindfulness Meditation",23,28,30,36,"Female",12,8,8,4,53,1
+73,"Control",26,27,28,18,"Other",18,16,7,6,44,0
+74,"Cognitive Behavioral Therapy",24,30,31,27,"Female",18,14,7,4,57,1
+75,"Mindfulness Meditation",24,29,30,33,"Male",13,9,7,5,58,1
+76,"Control",26,27,29,22,"Female",11,9,6,5,52,0
+77,"Cognitive Behavioral Therapy",25,31,32,34,"Female",15,13,7,3,57,1
+78,"Mindfulness Meditation",24,30,31,26,"Male",18,16,6,5,56,1
+79,"Control",25,26,27,32,"Male",20,18,8,4,49,0
+80,"Cognitive Behavioral Therapy",25,31,32,35,"Female",13,10,7,6,43,1
+81,"Mindfulness Meditation",25,31,33,32,"Male",15,14,6,6,55,1
+82,"Control",25,26,27,34,"Female",20,17,8,7,41,0
+83,"Cognitive Behavioral Therapy",25,31,32,17,"Other",14,11,6,7,58,1
+84,"Mindfulness Meditation",26,31,32,22,"Male",12,9,8,5,48,1
+85,"Control",25,26,27,31,"Female",16,14,8,6,42,0
+86,"Cognitive Behavioral Therapy",25,30,32,23,"Female",22,19,7,6,57,1
+87,"Mindfulness Meditation",26,30,30,25,"Female",13,11,7,4,55,0
+88,"Control",25,26,27,35,"Female",14,10,6,5,57,0
+89,"Cognitive Behavioral Therapy",25,31,31,29,"Female",15,11,7,7,42,1
+90,"Mindfulness Meditation",26,31,32,28,"Female",15,12,8,3,53,1
+91,"Control",26,26,26,27,"Other",14,11,6,4,47,0
+92,"Cognitive Behavioral Therapy",26,32,33,20,"Female",16,12,8,5,44,1
+93,"Mindfulness Meditation",25,31,31,19,"Male",13,11,6,3,59,1
+94,"Control",24,24,25,27,"Male",15,13,7,5,43,0
+95,"Cognitive Behavioral Therapy",26,32,33,30,"Other",17,14,7,4,55,1
+96,"Mindfulness Meditation",24,30,31,21,"Other",15,12,6,6,57,1
+97,"Control",27,28,29,19,"Other",17,14,8,7,59,0
+98,"Cognitive Behavioral Therapy",27,33,34,34,"Male",11,9,7,5,40,1
+99,"Mindfulness Meditation",25,29,31,31,"Male",13,10,8,4,55,0
+100,"Control",24,25,27,30,"Male",15,10,7,6,55,0
+101,"Cognitive Behavioral Therapy",24,30,32,33,"Other",10,7,7,6,57,1
+102,"Mindfulness Meditation",25,30,30,31,"Other",16,13,6,6,47,1
+103,"Control",25,26,28,23,"Female",18,14,8,7,40,0
+104,"Cognitive Behavioral Therapy",25,31,31,34,"Other",15,12,8,7,42,1
+105,"Mindfulness Meditation",24,28,29,22,"Male",10,9,7,4,42,0
+106,"Control",25,26,27,26,"Male",14,14,7,4,56,0
+107,"Cognitive Behavioral Therapy",24,30,31,30,"Other",11,9,7,4,52,1
+108,"Mindfulness Meditation",23,27,28,29,"Female",14,11,6,5,54,0
+109,"Control",25,27,28,31,"Female",11,9,7,4,40,0
+110,"Cognitive Behavioral Therapy",26,32,33,32,"Other",9,7,6,4,47,1
+111,"Mindfulness Meditation",24,28,29,24,"Male",18,17,6,7,47,0
+112,"Control",26,27,27,22,"Male",16,12,6,3,50,0
+113,"Cognitive Behavioral Therapy",23,29,30,22,"Male",12,10,7,4,45,1
+114,"Mindfulness Meditation",25,30,31,31,"Male",11,11,7,3,48,1
+115,"Control",26,27,28,26,"Male",11,6,7,6,54,0
+116,"Cognitive Behavioral Therapy",25,31,32,30,"Other",13,11,7,6,60,1
+117,"Mindfulness Meditation",25,31,32,34,"Female",19,17,6,6,50,1
+118,"Control",24,25,25,25,"Male",16,13,7,7,54,0
+119,"Cognitive Behavioral Therapy",24,30,31,33,"Other",12,10,6,4,57,1
+120,"Mindfulness Meditation",24,29,30,25,"Male",18,14,7,4,57,1
+121,"Control",25,26,27,31,"Male",11,7,8,6,45,0
+122,"Cognitive Behavioral Therapy",24,30,31,28,"Female",20,16,6,5,45,1
+123,"Mindfulness Meditation",25,31,32,24,"Male",14,9,7,6,51,1
+124,"Control",25,27,27,33,"Female",19,16,6,4,49,0
+125,"Cognitive Behavioral Therapy",27,34,35,32,"Male",12,9,7,5,42,1
+126,"Mindfulness Meditation",24,29,30,24,"Male",15,12,6,5,49,1
+127,"Control",25,26,27,28,"Male",13,10,7,4,55,0
+128,"Cognitive Behavioral Therapy",25,31,32,41,"Male",16,13,6,4,54,1
+129,"Mindfulness Meditation",24,30,31,24,"Female",12,11,8,5,42,1
+130,"Control",25,26,27,27,"Other",11,8,8,6,49,0
+131,"Cognitive Behavioral Therapy",26,32,32,35,"Male",12,9,7,6,55,1
+132,"Mindfulness Meditation",25,30,31,22,"Other",20,16,7,6,54,1
+133,"Control",25,25,25,40,"Female",16,12,7,4,60,0
+134,"Cognitive Behavioral Therapy",25,32,33,25,"Female",18,14,8,7,46,1
+135,"Mindfulness Meditation",23,29,30,25,"Female",13,10,8,6,50,1
+136,"Control",26,27,28,28,"Male",15,13,6,6,49,0
+137,"Cognitive Behavioral Therapy",24,30,31,33,"Female",15,11,7,5,54,1
+138,"Mindfulness Meditation",26,31,32,44,"Male",14,10,7,4,57,1
+139,"Control",27,28,29,30,"Male",15,11,7,4,58,0
+140,"Cognitive Behavioral Therapy",24,29,30,31,"Male",16,12,6,4,42,1
+141,"Mindfulness Meditation",26,30,30,21,"Male",13,10,8,7,54,0
+142,"Control",25,26,27,29,"Other",17,15,7,4,54,0
+143,"Cognitive Behavioral Therapy",23,28,29,16,"Other",20,14,8,3,58,1
+144,"Mindfulness Meditation",23,27,27,27,"Other",15,12,8,5,40,0
+145,"Control",23,25,25,35,"Female",17,15,7,6,43,0
+146,"Cognitive Behavioral Therapy",24,30,32,27,"Female",16,12,7,5,59,1
+147,"Mindfulness Meditation",24,29,30,28,"Female",15,12,6,5,41,1
+148,"Control",26,26,27,28,"Other",16,14,7,4,59,0
+149,"Cognitive Behavioral Therapy",27,32,33,27,"Other",15,12,8,5,54,1
+150,"Mindfulness Meditation",24,29,30,29,"Other",12,9,6,3,43,1
+151,"Control",26,26,27,20,"Male",15,10,6,5,49,0
+152,"Cognitive Behavioral Therapy",26,33,34,26,"Other",19,16,7,7,54,1
+153,"Mindfulness Meditation",25,31,32,26,"Male",17,14,7,4,47,1
+154,"Control",24,25,26,31,"Female",16,14,7,6,50,0
+155,"Cognitive Behavioral Therapy",25,31,32,29,"Male",15,12,8,4,51,1
+156,"Mindfulness Meditation",25,30,31,24,"Other",17,15,7,3,60,1
+157,"Control",26,27,29,32,"Female",9,7,6,4,43,0
+158,"Cognitive Behavioral Therapy",25,30,31,34,"Female",15,11,7,6,53,1
+159,"Mindfulness Meditation",26,31,32,22,"Male",11,9,8,6,43,1
+160,"Control",25,25,26,29,"Other",14,12,7,6,53,0
+161,"Cognitive Behavioral Therapy",26,32,33,24,"Female",11,7,7,6,57,1
+162,"Mindfulness Meditation",24,29,30,25,"Female",19,14,7,4,58,1
+163,"Control",24,25,26,30,"Male",13,10,7,6,57,0
+164,"Cognitive Behavioral Therapy",28,34,35,32,"Female",14,11,7,5,58,1
+165,"Mindfulness Meditation",25,29,30,30,"Female",19,15,7,6,48,0
+166,"Control",25,26,27,25,"Female",17,15,7,4,49,0
+167,"Cognitive Behavioral Therapy",26,32,32,34,"Female",14,10,7,7,58,1
+168,"Mindfulness Meditation",25,31,32,33,"Other",9,8,6,5,55,1
+169,"Control",26,27,28,23,"Other",18,16,7,7,55,0
+170,"Cognitive Behavioral Therapy",25,31,32,30,"Female",14,12,8,6,55,1
+171,"Mindfulness Meditation",25,30,31,22,"Male",13,11,7,4,52,1
+172,"Control",25,27,27,35,"Other",13,10,7,3,55,0
+173,"Cognitive Behavioral Therapy",25,31,32,29,"Female",12,9,7,3,41,1
+174,"Mindfulness Meditation",27,31,33,33,"Other",11,9,8,5,50,0
+175,"Control",24,25,25,30,"Male",12,10,7,6,57,0
+176,"Cognitive Behavioral Therapy",24,30,30,27,"Female",18,15,7,5,45,1
+177,"Mindfulness Meditation",25,30,31,32,"Other",12,11,7,4,59,1
+178,"Control",25,26,27,22,"Male",14,10,6,6,50,0
+179,"Cognitive Behavioral Therapy",25,32,34,21,"Male",17,13,8,6,52,1
+180,"Mindfulness Meditation",25,30,32,25,"Female",16,15,8,4,55,1
+181,"Control",24,25,26,29,"Other",9,5,6,4,49,0
+182,"Cognitive Behavioral Therapy",26,32,33,26,"Female",19,18,7,3,46,1
+183,"Mindfulness Meditation",25,30,32,26,"Other",16,14,7,6,51,1
+184,"Control",24,26,27,33,"Other",18,15,6,4,53,0
+185,"Cognitive Behavioral Therapy",25,31,32,25,"Other",12,9,7,3,51,1
+186,"Mindfulness Meditation",25,29,30,33,"Female",14,11,7,6,51,0
+187,"Control",26,27,27,24,"Male",14,11,8,7,42,0
+188,"Cognitive Behavioral Therapy",25,32,32,27,"Male",17,14,6,6,47,1
+189,"Mindfulness Meditation",26,30,32,24,"Female",11,7,7,4,44,0
+190,"Control",25,26,27,26,"Female",14,12,7,5,56,0
+191,"Cognitive Behavioral Therapy",25,31,32,22,"Female",17,14,8,6,58,1
+192,"Mindfulness Meditation",25,31,32,30,"Male",18,15,7,4,60,1
+193,"Control",25,25,26,34,"Female",12,9,7,4,49,0
+194,"Cognitive Behavioral Therapy",24,30,31,29,"Male",19,16,6,5,58,1
+195,"Mindfulness Meditation",24,29,30,37,"Male",15,11,7,6,48,1
+196,"Control",27,28,29,20,"Other",14,11,7,3,46,0
+197,"Cognitive Behavioral Therapy",26,32,33,24,"Other",17,13,8,4,55,1
+198,"Mindfulness Meditation",24,29,30,31,"Other",18,15,7,5,49,1
+199,"Control",24,25,26,31,"Male",13,10,7,6,58,0
+200,"Cognitive Behavioral Therapy",24,30,31,30,"Female",18,15,8,5,48,1
+201,"Mindfulness Meditation",27,31,32,37,"Male",12,9,7,7,44,0
+202,"Control",26,27,28,36,"Male",18,14,7,3,46,0
+203,"Cognitive Behavioral Therapy",25,31,32,21,"Male",13,9,7,7,51,1
+204,"Mindfulness Meditation",26,31,33,26,"Male",13,10,7,5,56,1
+205,"Control",25,27,27,21,"Female",18,13,8,5,45,0
+206,"Cognitive Behavioral Therapy",25,31,32,23,"Female",16,13,7,6,48,1
+207,"Mindfulness Meditation",24,29,30,29,"Other",11,10,8,4,52,1
+208,"Control",24,26,28,30,"Other",18,15,8,6,55,0
+209,"Cognitive Behavioral Therapy",27,33,34,24,"Other",14,11,6,4,59,1
+210,"Mindfulness Meditation",25,30,31,30,"Female",17,13,7,3,40,1
+211,"Control",25,25,26,24,"Other",16,13,6,7,58,0
+212,"Cognitive Behavioral Therapy",25,31,32,29,"Other",12,10,7,5,52,1
+213,"Mindfulness Meditation",26,31,32,29,"Other",15,13,6,5,52,1
+214,"Control",24,25,27,27,"Male",15,12,7,6,56,0
+215,"Cognitive Behavioral Therapy",24,30,31,23,"Other",14,11,6,4,49,1
+216,"Mindfulness Meditation",27,32,33,26,"Other",9,5,7,6,45,1
+217,"Control",25,26,28,30,"Other",13,10,7,6,46,0
+218,"Cognitive Behavioral Therapy",24,29,30,26,"Male",16,13,6,4,42,1
+219,"Mindfulness Meditation",24,30,31,26,"Female",18,15,7,3,40,1
+220,"Control",24,25,27,23,"Male",18,16,7,6,57,0
+221,"Cognitive Behavioral Therapy",24,30,31,26,"Male",17,14,7,4,43,1
+222,"Mindfulness Meditation",26,31,32,28,"Female",14,10,6,6,41,1
+223,"Control",26,27,28,24,"Female",14,11,7,4,52,0
+224,"Cognitive Behavioral Therapy",26,31,32,26,"Other",13,9,7,6,41,1
+225,"Mindfulness Meditation",25,29,30,22,"Female",18,14,7,3,41,0
+226,"Control",25,25,26,32,"Male",13,9,7,4,44,0
+227,"Cognitive Behavioral Therapy",24,31,33,39,"Male",16,13,6,6,54,1
+228,"Mindfulness Meditation",24,29,30,26,"Male",18,14,7,6,42,1
+229,"Control",26,26,27,30,"Other",16,13,8,4,54,0
+230,"Cognitive Behavioral Therapy",24,30,32,36,"Female",16,11,7,6,52,1
+231,"Mindfulness Meditation",27,33,34,26,"Other",14,10,7,5,44,1
+232,"Control",25,25,27,26,"Male",12,10,7,5,56,0
+233,"Cognitive Behavioral Therapy",25,32,33,31,"Female",14,11,8,6,52,1
+234,"Mindfulness Meditation",24,29,30,23,"Other",12,9,7,6,58,1
+235,"Control",24,25,26,27,"Female",15,13,7,5,55,0
+236,"Cognitive Behavioral Therapy",24,31,32,25,"Other",15,12,7,5,60,1
+237,"Mindfulness Meditation",25,31,32,23,"Female",14,12,7,6,42,1
+238,"Control",25,26,27,30,"Other",17,15,7,7,42,0
+239,"Cognitive Behavioral Therapy",25,31,32,27,"Male",19,18,7,4,41,1
+240,"Mindfulness Meditation",24,29,30,39,"Other",15,13,8,6,59,1
+241,"Control",24,25,26,14,"Male",17,16,7,5,55,0
+242,"Cognitive Behavioral Therapy",24,30,31,31,"Other",12,9,7,4,49,1
+243,"Mindfulness Meditation",26,31,32,24,"Female",15,11,8,4,58,1
+244,"Control",24,26,26,27,"Female",15,13,7,6,59,0
+245,"Cognitive Behavioral Therapy",25,31,31,23,"Female",16,13,7,7,60,1
+246,"Mindfulness Meditation",27,32,34,31,"Male",16,13,7,6,40,1
+247,"Control",25,25,26,35,"Male",16,15,6,6,54,0
+248,"Cognitive Behavioral Therapy",24,30,31,30,"Male",16,14,7,5,43,1
+249,"Mindfulness Meditation",24,30,30,23,"Male",12,8,7,3,41,1
+250,"Control",25,26,27,36,"Female",16,15,7,5,58,0
+251,"Cognitive Behavioral Therapy",25,30,31,27,"Female",10,8,6,6,43,1
+252,"Mindfulness Meditation",24,29,30,29,"Female",18,15,7,4,50,1
+253,"Control",25,26,27,28,"Female",17,13,6,6,46,0
+254,"Cognitive Behavioral Therapy",25,30,32,27,"Female",15,12,6,4,56,1
+255,"Mindfulness Meditation",27,32,33,28,"Female",20,16,7,6,56,1
+256,"Control",25,27,29,23,"Other",13,8,7,7,44,0
+257,"Cognitive Behavioral Therapy",26,31,32,34,"Other",19,15,7,7,53,1
+258,"Mindfulness Meditation",26,32,34,31,"Male",17,14,7,5,44,1
+259,"Control",25,26,27,28,"Male",22,18,7,4,49,0
+260,"Cognitive Behavioral Therapy",23,29,30,33,"Male",19,14,6,6,49,1
+261,"Mindfulness Meditation",24,29,30,22,"Female",17,15,8,5,43,1
+262,"Control",25,25,26,33,"Female",17,13,8,5,47,0
+263,"Cognitive Behavioral Therapy",25,31,32,29,"Male",17,14,8,6,55,1
+264,"Mindfulness Meditation",26,31,32,31,"Female",18,13,7,4,53,1
+265,"Control",27,29,30,26,"Other",17,15,6,5,56,0
+266,"Cognitive Behavioral Therapy",27,33,34,24,"Male",19,15,7,3,51,1
+267,"Mindfulness Meditation",25,30,32,25,"Male",15,13,7,4,57,1
+268,"Control",23,24,25,33,"Female",20,17,6,4,54,0
+269,"Cognitive Behavioral Therapy",25,30,31,33,"Female",15,12,7,6,42,1
+270,"Mindfulness Meditation",25,31,31,36,"Male",11,8,7,4,45,1
+271,"Control",26,27,27,28,"Female",19,16,7,6,56,0
+272,"Cognitive Behavioral Therapy",26,32,33,24,"Other",11,9,8,5,40,1
+273,"Mindfulness Meditation",26,31,32,35,"Male",15,14,7,3,42,1
+274,"Control",24,25,26,20,"Male",12,9,8,6,48,0
+275,"Cognitive Behavioral Therapy",26,33,34,27,"Female",19,16,7,5,53,1
+276,"Mindfulness Meditation",25,31,32,31,"Other",17,14,6,5,54,1
+277,"Control",25,26,28,22,"Female",13,9,8,5,58,0
+278,"Cognitive Behavioral Therapy",25,31,32,20,"Female",18,15,8,7,52,1
+279,"Mindfulness Meditation",25,30,30,30,"Other",16,12,7,5,45,1
+280,"Control",25,26,26,36,"Other",17,13,7,5,45,0
+281,"Cognitive Behavioral Therapy",23,29,29,24,"Male",18,16,8,7,56,1
+282,"Mindfulness Meditation",26,31,31,25,"Female",13,8,6,6,45,1
+283,"Control",25,26,27,23,"Other",16,15,7,4,47,0
+284,"Cognitive Behavioral Therapy",25,31,32,35,"Other",7,5,7,4,52,1
+285,"Mindfulness Meditation",25,30,30,24,"Other",14,13,6,5,52,1
+286,"Control",25,27,29,24,"Other",18,15,8,4,44,0
+287,"Cognitive Behavioral Therapy",25,31,33,24,"Female",18,15,7,3,60,1
+288,"Mindfulness Meditation",27,32,34,25,"Other",17,16,8,4,46,1
+289,"Control",25,25,26,25,"Other",16,13,7,4,49,0
+290,"Cognitive Behavioral Therapy",25,31,32,31,"Other",17,14,6,5,50,1
+291,"Mindfulness Meditation",26,31,31,30,"Female",12,8,8,5,44,1
+292,"Control",26,26,26,30,"Other",13,9,8,3,58,0
+293,"Cognitive Behavioral Therapy",26,33,34,25,"Female",12,9,7,4,47,1
+294,"Mindfulness Meditation",24,29,31,32,"Female",16,13,7,3,50,1
+295,"Control",27,28,29,13,"Female",15,12,6,4,47,0
+296,"Cognitive Behavioral Therapy",25,31,32,34,"Other",16,11,8,7,49,1
+297,"Mindfulness Meditation",27,32,33,29,"Male",16,12,7,6,56,1
+298,"Control",24,25,25,26,"Male",18,13,7,7,47,0
+299,"Cognitive Behavioral Therapy",25,31,32,30,"Female",20,16,6,5,42,1
+300,"Mindfulness Meditation",26,31,32,22,"Female",11,10,8,6,58,1
+301,"Control",24,24,25,25,"Other",16,15,7,4,45,0
+302,"Cognitive Behavioral Therapy",24,30,32,29,"Female",13,9,6,5,46,1
+303,"Mindfulness Meditation",24,28,29,20,"Other",19,17,7,4,56,0
+304,"Control",24,26,27,28,"Female",17,14,8,3,43,0
+305,"Cognitive Behavioral Therapy",25,31,31,28,"Other",19,16,7,6,51,1
+306,"Mindfulness Meditation",25,30,31,27,"Female",11,9,7,3,43,1
+307,"Control",23,24,25,22,"Male",15,12,8,4,60,0
+308,"Cognitive Behavioral Therapy",25,32,33,34,"Female",20,18,7,4,55,1
+309,"Mindfulness Meditation",26,31,32,21,"Female",12,9,6,6,52,1
+310,"Control",27,27,29,21,"Other",12,8,7,7,42,0
+311,"Cognitive Behavioral Therapy",26,32,33,25,"Other",15,12,8,5,45,1
+312,"Mindfulness Meditation",26,31,32,36,"Male",13,10,7,3,42,1
+313,"Control",23,24,25,29,"Male",17,13,6,6,43,0
+314,"Cognitive Behavioral Therapy",24,29,30,29,"Male",14,11,6,6,43,1
+315,"Mindfulness Meditation",25,31,32,27,"Female",14,11,7,3,58,1
+316,"Control",26,27,28,29,"Other",11,9,7,6,59,0
+317,"Cognitive Behavioral Therapy",25,31,31,31,"Other",16,13,7,5,44,1
+318,"Mindfulness Meditation",24,29,29,32,"Male",17,14,7,4,57,1
+319,"Control",27,28,29,35,"Female",11,7,6,5,51,0
+320,"Cognitive Behavioral Therapy",26,32,33,24,"Other",19,16,7,7,59,1
+321,"Mindfulness Meditation",25,30,31,27,"Other",12,9,7,7,45,1
+322,"Control",26,28,29,30,"Other",16,13,7,6,46,0
+323,"Cognitive Behavioral Therapy",24,30,30,32,"Male",16,13,6,6,58,1
+324,"Mindfulness Meditation",26,30,31,26,"Other",12,9,7,7,49,0
+325,"Control",24,25,26,31,"Other",13,10,6,4,55,0
+326,"Cognitive Behavioral Therapy",26,31,32,25,"Male",18,15,6,6,48,1
+327,"Mindfulness Meditation",25,30,32,26,"Female",15,13,7,7,51,1
+328,"Control",26,28,29,33,"Other",15,12,8,5,53,0
+329,"Cognitive Behavioral Therapy",26,33,34,19,"Other",18,15,7,3,59,1
+330,"Mindfulness Meditation",25,31,32,29,"Male",16,15,7,6,55,1
+331,"Control",26,27,28,33,"Female",14,11,8,6,41,0
+332,"Cognitive Behavioral Therapy",24,30,30,26,"Male",16,12,6,5,57,1
+333,"Mindfulness Meditation",24,28,29,31,"Male",11,9,7,6,49,0
+334,"Control",27,27,29,24,"Other",16,13,6,6,59,0
+335,"Cognitive Behavioral Therapy",25,31,33,29,"Other",22,19,7,6,42,1
+336,"Mindfulness Meditation",23,28,28,28,"Male",14,12,6,5,53,1
+337,"Control",24,24,25,28,"Male",13,13,8,6,52,0
+338,"Cognitive Behavioral Therapy",25,31,32,22,"Male",19,17,7,7,46,1
+339,"Mindfulness Meditation",26,32,33,27,"Other",18,16,7,5,56,1
+340,"Control",25,25,26,24,"Female",19,16,7,4,44,0
+341,"Cognitive Behavioral Therapy",26,32,33,26,"Other",17,14,7,4,53,1
+342,"Mindfulness Meditation",26,31,32,33,"Other",16,13,8,4,50,1
+343,"Control",27,28,29,25,"Other",17,13,6,3,44,0
+344,"Cognitive Behavioral Therapy",25,31,32,28,"Male",12,10,7,6,59,1
+345,"Mindfulness Meditation",25,30,31,29,"Female",16,14,7,7,47,1
+346,"Control",23,24,25,27,"Male",16,14,6,6,54,0
+347,"Cognitive Behavioral Therapy",25,31,32,32,"Female",21,17,7,5,46,1
+348,"Mindfulness Meditation",24,29,30,28,"Other",18,15,8,5,40,1
+349,"Control",24,25,26,29,"Male",20,16,7,4,47,0
+350,"Cognitive Behavioral Therapy",25,30,31,24,"Female",15,12,7,7,43,1
+351,"Mindfulness Meditation",26,31,32,26,"Female",12,9,6,6,48,1
+352,"Control",23,25,27,25,"Female",13,11,6,3,41,0
+353,"Cognitive Behavioral Therapy",25,31,32,30,"Male",11,8,7,6,55,1
+354,"Mindfulness Meditation",25,30,31,34,"Female",10,6,7,5,56,1
+355,"Control",24,25,25,26,"Male",14,11,7,5,43,0
+356,"Cognitive Behavioral Therapy",25,31,32,17,"Male",14,10,7,4,46,1
+357,"Mindfulness Meditation",25,30,31,24,"Female",19,16,8,3,46,1
+358,"Control",25,26,27,23,"Female",10,8,7,4,45,0
+359,"Cognitive Behavioral Therapy",23,29,30,34,"Other",15,11,8,6,58,1
+360,"Mindfulness Meditation",28,33,34,29,"Other",14,12,6,3,57,1
+361,"Control",25,27,27,36,"Male",17,15,7,7,56,0
+362,"Cognitive Behavioral Therapy",26,32,33,30,"Male",17,15,7,5,42,1
+363,"Mindfulness Meditation",25,30,31,20,"Male",12,10,7,3,56,1
+364,"Control",26,27,28,30,"Male",14,10,7,4,57,0
+365,"Cognitive Behavioral Therapy",26,31,32,24,"Other",14,10,7,4,58,1
+366,"Mindfulness Meditation",25,30,32,28,"Male",12,10,6,6,52,1
+367,"Control",25,25,25,27,"Other",15,13,6,6,52,0
+368,"Cognitive Behavioral Therapy",24,30,31,27,"Male",14,11,8,6,50,1
+369,"Mindfulness Meditation",26,32,34,26,"Male",13,11,8,5,57,1
+370,"Control",25,27,28,38,"Female",12,11,6,7,59,0
+371,"Cognitive Behavioral Therapy",27,33,34,36,"Female",15,12,7,6,46,1
+372,"Mindfulness Meditation",23,28,29,24,"Other",15,12,6,5,44,1
+373,"Control",25,26,27,29,"Other",13,9,7,6,43,0
+374,"Cognitive Behavioral Therapy",26,33,34,34,"Male",20,16,6,5,43,1
+375,"Mindfulness Meditation",26,31,32,34,"Female",12,9,6,4,43,1
+376,"Control",24,26,27,24,"Female",14,12,7,7,55,0
+377,"Cognitive Behavioral Therapy",24,30,31,35,"Male",13,10,7,6,44,1
+378,"Mindfulness Meditation",25,30,31,24,"Male",18,15,6,4,58,1
+379,"Control",25,26,27,29,"Other",18,15,7,5,41,0
+380,"Cognitive Behavioral Therapy",23,28,30,29,"Female",8,5,8,4,55,1
+381,"Mindfulness Meditation",25,29,30,18,"Male",13,9,8,4,57,0
+382,"Control",25,25,25,27,"Female",9,6,7,7,42,0
+383,"Cognitive Behavioral Therapy",25,30,31,17,"Male",21,18,7,3,45,1
+384,"Mindfulness Meditation",24,29,30,18,"Other",15,13,7,5,46,1
+385,"Control",25,26,27,30,"Male",16,11,7,5,41,0
+386,"Cognitive Behavioral Therapy",26,32,33,30,"Other",15,14,7,3,59,1
+387,"Mindfulness Meditation",25,30,31,33,"Other",10,6,7,3,43,1
+388,"Control",24,24,25,30,"Female",10,8,6,6,56,0
+389,"Cognitive Behavioral Therapy",25,31,32,25,"Male",18,15,7,4,42,1
+390,"Mindfulness Meditation",25,30,31,24,"Other",16,13,6,5,50,1
+391,"Control",24,24,24,32,"Female",13,10,8,5,41,0
+392,"Cognitive Behavioral Therapy",23,29,30,35,"Female",11,6,7,4,47,1
+393,"Mindfulness Meditation",26,30,32,32,"Female",17,17,8,7,53,0
+394,"Control",24,25,26,29,"Male",12,9,7,6,50,0
+395,"Cognitive Behavioral Therapy",24,30,31,28,"Female",14,12,7,3,52,1
+396,"Mindfulness Meditation",27,32,32,36,"Male",17,13,7,3,41,1
+397,"Control",24,25,26,16,"Male",12,8,6,6,41,0
+398,"Cognitive Behavioral Therapy",26,33,34,33,"Other",11,9,7,3,55,1
+399,"Mindfulness Meditation",24,30,31,27,"Female",21,19,7,4,59,1
+400,"Control",25,26,27,22,"Other",13,11,7,3,59,0
+401,"Cognitive Behavioral Therapy",25,31,32,32,"Male",20,17,7,3,45,1
+402,"Mindfulness Meditation",24,28,29,23,"Male",14,10,6,7,43,0
+403,"Control",24,25,26,30,"Female",16,12,8,3,46,0
+404,"Cognitive Behavioral Therapy",25,31,32,29,"Male",17,16,8,6,53,1
+405,"Mindfulness Meditation",26,31,32,29,"Male",11,6,7,6,46,1
+406,"Control",23,23,24,19,"Male",13,12,7,4,55,0
+407,"Cognitive Behavioral Therapy",25,30,31,29,"Male",21,18,7,5,40,1
+408,"Mindfulness Meditation",26,32,33,26,"Male",15,10,8,4,43,1
+409,"Control",24,25,25,24,"Other",18,14,8,5,52,0
+410,"Cognitive Behavioral Therapy",25,31,32,22,"Other",10,7,6,5,59,1
+411,"Mindfulness Meditation",25,31,33,22,"Female",18,15,8,4,48,1
+412,"Control",25,25,26,24,"Male",14,8,7,7,51,0
+413,"Cognitive Behavioral Therapy",26,32,33,34,"Female",14,11,7,5,47,1
+414,"Mindfulness Meditation",25,30,31,31,"Other",13,12,7,6,53,1
+415,"Control",25,26,27,29,"Male",15,12,7,3,55,0
+416,"Cognitive Behavioral Therapy",22,27,28,37,"Female",16,15,6,6,41,1
+417,"Mindfulness Meditation",25,30,30,36,"Male",10,6,6,6,52,1
+418,"Control",25,26,27,33,"Other",13,11,6,5,55,0
+419,"Cognitive Behavioral Therapy",26,32,33,22,"Other",16,13,7,7,45,1
+420,"Mindfulness Meditation",24,30,31,35,"Female",15,13,7,4,58,1
+421,"Control",27,27,29,27,"Male",15,10,7,6,48,0
+422,"Cognitive Behavioral Therapy",25,31,31,27,"Other",14,11,6,5,53,1
+423,"Mindfulness Meditation",25,30,31,29,"Male",19,17,7,3,41,1
+424,"Control",26,27,28,28,"Male",15,11,7,7,42,0
+425,"Cognitive Behavioral Therapy",24,31,32,26,"Female",15,14,6,4,60,1
+426,"Mindfulness Meditation",25,30,31,31,"Other",17,14,6,6,47,1
+427,"Control",27,28,28,26,"Female",22,18,6,6,43,0
+428,"Cognitive Behavioral Therapy",25,31,32,25,"Male",17,13,6,3,43,1
+429,"Mindfulness Meditation",27,31,30,27,"Male",18,16,6,6,45,0
+430,"Control",24,25,26,24,"Female",13,9,7,4,44,0
+431,"Cognitive Behavioral Therapy",25,30,32,29,"Female",15,11,8,3,59,1
+432,"Mindfulness Meditation",25,29,31,28,"Other",14,11,7,5,59,0
+433,"Control",25,26,26,27,"Female",18,13,6,3,53,0
+434,"Cognitive Behavioral Therapy",24,30,31,30,"Other",15,11,7,4,53,1
+435,"Mindfulness Meditation",25,30,31,19,"Other",17,16,7,4,42,1
+436,"Control",24,24,25,29,"Other",23,20,7,3,52,0
+437,"Cognitive Behavioral Therapy",26,32,32,33,"Other",13,11,6,3,54,1
+438,"Mindfulness Meditation",26,30,31,32,"Female",17,12,7,6,42,0
+439,"Control",23,23,24,39,"Male",12,7,7,6,45,0
+440,"Cognitive Behavioral Therapy",26,31,32,25,"Other",13,11,8,5,47,1
+441,"Mindfulness Meditation",24,29,30,23,"Male",18,15,7,4,48,1
+442,"Control",25,26,26,30,"Female",15,14,8,4,49,0
+443,"Cognitive Behavioral Therapy",26,32,33,20,"Female",16,14,7,6,56,1
+444,"Mindfulness Meditation",25,31,32,34,"Male",13,8,6,7,42,1
+445,"Control",24,25,26,23,"Other",15,13,6,5,43,0
+446,"Cognitive Behavioral Therapy",25,32,33,30,"Male",12,8,7,5,55,1
+447,"Mindfulness Meditation",25,30,31,26,"Female",17,14,7,7,44,1
+448,"Control",26,27,29,16,"Other",12,9,7,4,43,0
+449,"Cognitive Behavioral Therapy",23,29,30,29,"Other",14,10,7,3,50,1
+450,"Mindfulness Meditation",23,28,29,22,"Female",14,10,7,3,50,1
+451,"Control",26,27,29,33,"Male",15,12,8,4,42,0
+452,"Cognitive Behavioral Therapy",26,33,35,16,"Male",14,11,6,5,44,1
+453,"Mindfulness Meditation",25,30,31,27,"Male",11,6,7,6,50,1
+454,"Control",26,27,28,23,"Other",16,15,8,5,58,0
+455,"Cognitive Behavioral Therapy",26,32,34,34,"Female",17,15,8,5,41,1
+456,"Mindfulness Meditation",22,28,28,24,"Male",20,17,7,3,48,1
+457,"Control",26,27,29,33,"Male",11,6,7,5,44,0
+458,"Cognitive Behavioral Therapy",25,31,33,26,"Male",19,17,6,4,44,1
+459,"Mindfulness Meditation",25,31,32,29,"Other",12,11,8,7,59,1
+460,"Control",25,27,28,35,"Male",14,10,7,7,49,0
+461,"Cognitive Behavioral Therapy",26,32,33,25,"Male",11,8,7,4,54,1
+462,"Mindfulness Meditation",25,30,32,37,"Female",20,16,7,7,57,1
+463,"Control",26,27,28,33,"Female",15,12,7,7,49,0
+464,"Cognitive Behavioral Therapy",25,31,32,34,"Other",15,13,7,5,53,1
+465,"Mindfulness Meditation",24,28,28,17,"Male",16,12,7,5,42,0
+466,"Control",26,27,29,27,"Male",24,20,7,7,48,0
+467,"Cognitive Behavioral Therapy",26,32,33,21,"Male",13,10,7,4,56,1
+468,"Mindfulness Meditation",27,32,33,32,"Male",16,12,6,5,47,1
+469,"Control",25,26,27,34,"Other",15,12,8,5,43,0
+470,"Cognitive Behavioral Therapy",26,32,32,25,"Male",16,13,8,6,50,1
+471,"Mindfulness Meditation",27,33,34,25,"Male",18,13,8,6,46,1
+472,"Control",25,26,27,20,"Male",16,12,7,7,56,0
+473,"Cognitive Behavioral Therapy",24,31,32,32,"Male",15,12,7,7,43,1
+474,"Mindfulness Meditation",25,29,31,35,"Other",16,13,6,3,49,0
+475,"Control",25,25,25,20,"Female",13,11,7,6,45,0
+476,"Cognitive Behavioral Therapy",25,31,32,19,"Female",21,19,7,3,42,1
+477,"Mindfulness Meditation",27,32,34,34,"Female",21,18,8,4,56,1
+478,"Control",25,25,26,35,"Other",13,11,7,4,58,0
+479,"Cognitive Behavioral Therapy",25,31,32,30,"Female",9,5,6,3,45,1
+480,"Mindfulness Meditation",25,31,33,29,"Male",21,16,7,4,45,1
+481,"Control",25,26,26,25,"Male",16,13,7,6,59,0
+482,"Cognitive Behavioral Therapy",25,31,32,30,"Other",11,8,7,6,55,1
+483,"Mindfulness Meditation",26,32,32,26,"Male",13,9,7,5,52,1
+484,"Control",25,25,26,38,"Other",12,7,6,6,54,0
+485,"Cognitive Behavioral Therapy",26,32,33,26,"Other",15,11,8,7,50,1
+486,"Mindfulness Meditation",26,31,32,12,"Male",14,12,6,3,42,1
+487,"Control",26,27,28,30,"Female",19,15,7,6,42,0
+488,"Cognitive Behavioral Therapy",24,30,31,22,"Other",21,18,7,6,58,1
+489,"Mindfulness Meditation",27,32,33,32,"Other",18,15,8,7,53,1
+490,"Control",25,27,28,20,"Male",15,14,6,7,50,0
+491,"Cognitive Behavioral Therapy",25,32,32,27,"Female",18,15,7,5,49,1
+492,"Mindfulness Meditation",26,30,31,30,"Male",13,12,7,7,46,0
+493,"Control",26,27,28,27,"Female",13,11,8,5,55,0
+494,"Cognitive Behavioral Therapy",24,31,33,18,"Female",15,10,7,6,47,1
+495,"Mindfulness Meditation",24,29,29,21,"Male",14,11,8,5,43,1
+496,"Control",24,25,26,24,"Male",13,10,7,6,44,0
+497,"Cognitive Behavioral Therapy",25,32,33,36,"Female",16,12,7,7,59,1
+498,"Mindfulness Meditation",25,30,31,27,"Male",13,10,8,7,58,1
+499,"Control",25,26,26,34,"Female",18,15,8,6,53,0
+500,"Cognitive Behavioral Therapy",26,32,34,29,"Female",14,9,7,6,49,1
+501,"Mindfulness Meditation",24,29,31,26,"Other",14,9,8,4,43,1
+502,"Control",24,25,25,34,"Other",15,11,8,4,53,0
+503,"Cognitive Behavioral Therapy",26,32,32,22,"Male",19,16,6,5,50,1
+504,"Mindfulness Meditation",26,31,32,35,"Other",17,15,7,4,56,1
+505,"Control",23,25,26,33,"Other",16,11,7,4,51,0
+506,"Cognitive Behavioral Therapy",25,31,32,30,"Other",18,15,8,5,53,1
+507,"Mindfulness Meditation",24,29,31,31,"Female",12,8,7,3,53,1
+508,"Control",23,24,25,29,"Male",18,14,6,5,41,0
+509,"Cognitive Behavioral Therapy",25,32,32,26,"Female",15,13,6,4,42,1
+510,"Mindfulness Meditation",25,31,33,26,"Female",11,10,7,5,54,1
+511,"Control",25,26,27,25,"Male",13,10,6,4,56,0
+512,"Cognitive Behavioral Therapy",25,31,32,34,"Other",14,11,6,3,46,1
+513,"Mindfulness Meditation",26,31,32,31,"Male",20,15,7,4,43,1
+514,"Control",25,27,28,27,"Male",9,9,6,4,42,0
+515,"Cognitive Behavioral Therapy",24,30,30,22,"Male",14,11,7,6,46,1
+516,"Mindfulness Meditation",24,29,30,30,"Other",12,10,7,6,44,1
+517,"Control",25,26,27,23,"Female",16,13,8,3,54,0
+518,"Cognitive Behavioral Therapy",25,31,32,24,"Female",15,11,7,6,46,1
+519,"Mindfulness Meditation",24,29,30,38,"Other",18,15,8,4,47,1
+520,"Control",25,26,27,21,"Male",18,14,7,3,45,0
+521,"Cognitive Behavioral Therapy",26,32,32,24,"Male",17,14,7,5,49,1
+522,"Mindfulness Meditation",25,31,32,25,"Other",20,17,6,4,48,1
+523,"Control",24,25,26,25,"Female",12,8,7,5,44,0
+524,"Cognitive Behavioral Therapy",25,31,33,22,"Other",14,10,7,4,59,1
+525,"Mindfulness Meditation",26,30,31,27,"Female",18,15,8,4,44,0
+526,"Control",26,27,27,23,"Female",13,10,7,4,59,0
+527,"Cognitive Behavioral Therapy",26,32,33,35,"Other",11,8,6,7,55,1
+528,"Mindfulness Meditation",25,30,30,29,"Male",16,15,6,6,41,1
+529,"Control",25,26,27,32,"Female",17,13,7,7,57,0
+530,"Cognitive Behavioral Therapy",24,29,30,21,"Other",13,9,6,7,47,1
+531,"Mindfulness Meditation",26,31,33,28,"Male",7,3,7,5,42,1
+532,"Control",24,25,26,31,"Male",12,12,7,3,47,0
+533,"Cognitive Behavioral Therapy",24,30,31,28,"Female",11,7,7,5,45,1
+534,"Mindfulness Meditation",25,29,29,28,"Other",13,11,7,5,48,0
+535,"Control",27,28,30,23,"Male",14,10,7,7,45,0
+536,"Cognitive Behavioral Therapy",26,32,33,25,"Male",18,16,8,4,53,1
+537,"Mindfulness Meditation",26,31,32,26,"Female",11,8,7,6,41,1
+538,"Control",25,26,27,24,"Male",13,9,8,7,55,0
+539,"Cognitive Behavioral Therapy",24,31,32,32,"Female",13,10,7,6,48,1
+540,"Mindfulness Meditation",25,31,32,37,"Male",19,17,6,6,46,1
+541,"Control",25,27,28,35,"Female",11,9,7,3,52,0
+542,"Cognitive Behavioral Therapy",25,31,33,30,"Male",10,7,6,3,41,1
+543,"Mindfulness Meditation",26,30,31,27,"Male",18,15,7,4,50,0
+544,"Control",24,26,27,31,"Male",15,10,7,7,52,0
+545,"Cognitive Behavioral Therapy",26,32,33,24,"Other",13,9,7,3,47,1
+546,"Mindfulness Meditation",26,31,32,29,"Female",13,9,7,6,56,1
+547,"Control",24,25,27,29,"Other",7,5,7,4,55,0
+548,"Cognitive Behavioral Therapy",26,32,34,16,"Other",16,13,7,3,44,1
+549,"Mindfulness Meditation",27,32,33,37,"Male",15,12,8,4,60,1
+550,"Control",24,25,25,21,"Female",18,16,7,7,55,0
+551,"Cognitive Behavioral Therapy",26,32,33,15,"Male",14,12,8,6,40,1
+552,"Mindfulness Meditation",24,29,30,28,"Female",18,17,8,6,46,1
+553,"Control",26,26,27,29,"Female",16,13,8,3,41,0
+554,"Cognitive Behavioral Therapy",25,32,33,28,"Other",17,14,6,7,43,1
+555,"Mindfulness Meditation",27,32,32,29,"Male",10,6,7,5,52,1
+556,"Control",24,24,25,22,"Other",18,16,7,4,43,0
+557,"Cognitive Behavioral Therapy",25,31,32,31,"Other",17,14,8,4,59,1
+558,"Mindfulness Meditation",24,29,29,35,"Male",19,16,6,5,58,1
+559,"Control",25,25,25,24,"Male",15,11,7,5,41,0
+560,"Cognitive Behavioral Therapy",24,30,31,30,"Male",12,9,7,5,55,1
+561,"Mindfulness Meditation",24,28,28,27,"Other",15,12,8,3,49,0
+562,"Control",26,27,28,28,"Male",17,13,8,6,51,0
+563,"Cognitive Behavioral Therapy",24,31,33,33,"Male",18,16,7,6,58,1
+564,"Mindfulness Meditation",26,31,32,29,"Other",19,15,6,6,57,1
+565,"Control",24,25,26,38,"Male",15,13,7,5,56,0
+566,"Cognitive Behavioral Therapy",25,31,32,26,"Male",20,16,7,6,44,1
+567,"Mindfulness Meditation",26,31,31,35,"Male",13,9,7,6,51,1
+568,"Control",26,27,29,26,"Other",7,5,7,6,59,0
+569,"Cognitive Behavioral Therapy",25,30,31,27,"Male",16,13,7,4,50,1
+570,"Mindfulness Meditation",25,30,32,26,"Female",15,12,6,5,41,1
+571,"Control",26,28,29,29,"Other",11,9,7,4,55,0
+572,"Cognitive Behavioral Therapy",24,30,30,30,"Other",15,13,6,7,43,1
+573,"Mindfulness Meditation",24,29,30,29,"Female",11,8,8,3,48,1
+574,"Control",25,26,27,31,"Female",12,8,6,6,52,0
+575,"Cognitive Behavioral Therapy",25,31,33,24,"Female",19,16,8,4,59,1
+576,"Mindfulness Meditation",26,31,33,27,"Other",6,3,6,7,42,1
+577,"Control",26,27,28,31,"Male",16,14,7,4,46,0
+578,"Cognitive Behavioral Therapy",25,30,30,33,"Male",14,10,6,6,47,1
+579,"Mindfulness Meditation",23,28,29,30,"Male",13,9,7,5,45,1
+580,"Control",25,26,28,32,"Male",15,15,8,5,56,0
+581,"Cognitive Behavioral Therapy",25,30,30,32,"Female",14,12,8,5,57,1
+582,"Mindfulness Meditation",25,30,31,31,"Female",13,9,7,6,48,1
+583,"Control",24,24,26,27,"Other",11,7,7,6,53,0
+584,"Cognitive Behavioral Therapy",25,31,33,27,"Other",20,17,7,3,46,1
+585,"Mindfulness Meditation",24,29,30,31,"Male",18,14,7,6,58,1
+586,"Control",25,26,26,26,"Female",11,9,7,6,60,0
+587,"Cognitive Behavioral Therapy",25,30,31,27,"Male",14,11,7,5,40,1
+588,"Mindfulness Meditation",24,28,30,28,"Female",17,16,7,5,57,0
+589,"Control",26,28,30,20,"Male",13,10,8,6,49,0
+590,"Cognitive Behavioral Therapy",24,30,31,30,"Other",15,13,7,3,43,1
+591,"Mindfulness Meditation",22,27,28,31,"Other",15,12,7,7,47,1
+592,"Control",25,26,27,28,"Male",20,16,7,4,42,0
+593,"Cognitive Behavioral Therapy",26,31,32,37,"Female",13,9,7,6,47,1
+594,"Mindfulness Meditation",25,30,31,27,"Female",17,14,7,6,58,1
+595,"Control",26,27,28,31,"Male",13,8,8,6,57,0
+596,"Cognitive Behavioral Therapy",24,30,32,31,"Female",14,10,6,6,49,1
+597,"Mindfulness Meditation",25,30,31,32,"Female",15,13,8,7,42,1
+598,"Control",23,25,26,30,"Male",16,14,6,6,57,0
+599,"Cognitive Behavioral Therapy",26,32,33,27,"Male",15,12,7,6,51,1
+600,"Mindfulness Meditation",27,32,33,31,"Male",14,11,6,3,56,1
+601,"Control",26,27,28,29,"Female",15,11,8,5,57,0
+602,"Cognitive Behavioral Therapy",25,31,33,29,"Female",16,13,7,5,58,1
+603,"Mindfulness Meditation",25,29,30,32,"Female",16,14,7,6,55,0
+604,"Control",23,24,25,32,"Female",11,9,7,7,50,0
+605,"Cognitive Behavioral Therapy",26,32,33,28,"Male",14,10,7,6,41,1
+606,"Mindfulness Meditation",25,31,32,26,"Female",20,17,7,4,49,1
+607,"Control",24,26,27,35,"Male",13,10,7,5,46,0
+608,"Cognitive Behavioral Therapy",24,30,30,28,"Female",15,12,8,6,50,1
+609,"Mindfulness Meditation",25,30,32,26,"Male",18,14,8,4,43,1
+610,"Control",24,25,26,23,"Male",11,8,7,4,55,0
+611,"Cognitive Behavioral Therapy",25,31,32,29,"Other",11,9,7,6,44,1
+612,"Mindfulness Meditation",24,29,31,30,"Male",19,18,6,4,57,1
+613,"Control",27,28,28,22,"Other",17,13,7,4,44,0
+614,"Cognitive Behavioral Therapy",25,31,31,21,"Male",12,10,8,6,49,1
+615,"Mindfulness Meditation",26,31,32,29,"Male",19,16,6,4,55,1
+616,"Control",22,22,22,24,"Other",18,13,8,6,52,0
+617,"Cognitive Behavioral Therapy",25,31,33,35,"Female",20,19,7,5,43,1
+618,"Mindfulness Meditation",24,28,30,22,"Female",11,7,6,4,55,0
+619,"Control",24,26,27,20,"Male",18,14,7,4,56,0
+620,"Cognitive Behavioral Therapy",27,33,34,28,"Male",15,12,7,6,41,1
+621,"Mindfulness Meditation",24,30,31,30,"Female",9,6,8,5,50,1
+622,"Control",25,28,29,29,"Other",12,9,7,7,54,0
+623,"Cognitive Behavioral Therapy",26,32,33,27,"Male",17,12,6,7,42,1
+624,"Mindfulness Meditation",25,29,30,30,"Male",17,13,8,5,51,0
+625,"Control",24,25,26,24,"Male",11,9,8,6,52,0
+626,"Cognitive Behavioral Therapy",26,33,34,29,"Female",15,11,6,7,42,1
+627,"Mindfulness Meditation",25,31,32,24,"Female",9,6,7,4,57,1
+628,"Control",24,26,26,24,"Female",18,15,8,6,57,0
+629,"Cognitive Behavioral Therapy",24,30,31,29,"Other",16,14,7,7,53,1
+630,"Mindfulness Meditation",27,32,33,30,"Male",20,18,6,6,59,1
+631,"Control",24,24,26,24,"Female",14,11,7,4,57,0
+632,"Cognitive Behavioral Therapy",23,29,31,20,"Female",16,14,7,3,45,1
+633,"Mindfulness Meditation",26,30,30,23,"Male",13,10,8,5,53,0
+634,"Control",25,27,28,18,"Male",12,8,8,4,46,0
+635,"Cognitive Behavioral Therapy",24,29,30,29,"Male",18,15,7,7,51,1
+636,"Mindfulness Meditation",23,29,30,31,"Other",18,14,6,6,53,1
+637,"Control",25,27,28,37,"Other",16,12,7,7,40,0
+638,"Cognitive Behavioral Therapy",26,31,32,24,"Male",16,14,7,5,46,1
+639,"Mindfulness Meditation",26,31,32,26,"Male",16,14,7,6,57,1
+640,"Control",25,26,27,27,"Other",16,13,6,5,46,0
+641,"Cognitive Behavioral Therapy",24,30,31,29,"Male",16,13,6,4,41,1
+642,"Mindfulness Meditation",25,30,32,24,"Other",11,8,7,5,50,1
+643,"Control",25,27,27,33,"Other",9,5,7,3,42,0
+644,"Cognitive Behavioral Therapy",26,32,33,26,"Other",11,8,8,3,55,1
+645,"Mindfulness Meditation",25,30,32,33,"Male",19,15,7,7,54,1
+646,"Control",26,27,27,20,"Male",12,8,7,7,45,0
+647,"Cognitive Behavioral Therapy",24,30,31,27,"Other",17,15,8,5,53,1
+648,"Mindfulness Meditation",25,30,31,30,"Other",17,13,7,6,44,1
+649,"Control",26,27,28,26,"Female",16,14,7,5,53,0
+650,"Cognitive Behavioral Therapy",26,32,33,26,"Male",16,13,7,4,50,1
+651,"Mindfulness Meditation",23,28,29,25,"Male",17,14,8,6,59,1
+652,"Control",25,26,27,29,"Other",20,17,8,5,50,0
+653,"Cognitive Behavioral Therapy",26,32,33,34,"Other",15,12,6,3,57,1
+654,"Mindfulness Meditation",24,30,31,23,"Male",14,13,7,3,48,1
+655,"Control",25,26,27,28,"Female",13,10,7,5,45,0
+656,"Cognitive Behavioral Therapy",24,30,31,26,"Male",18,17,7,5,59,1
+657,"Mindfulness Meditation",26,31,32,35,"Other",15,12,6,6,43,1
+658,"Control",26,27,28,38,"Other",18,15,6,6,55,0
+659,"Cognitive Behavioral Therapy",26,32,33,31,"Other",11,9,7,6,59,1
+660,"Mindfulness Meditation",25,30,31,28,"Other",14,12,7,6,43,1
+661,"Control",26,28,29,35,"Female",14,9,8,7,48,0
+662,"Cognitive Behavioral Therapy",26,32,32,26,"Male",17,14,8,4,45,1
+663,"Mindfulness Meditation",27,33,34,28,"Male",17,14,6,4,50,1
+664,"Control",25,25,26,33,"Other",14,10,8,3,49,0
+665,"Cognitive Behavioral Therapy",23,29,31,29,"Other",16,12,7,5,58,1
+666,"Mindfulness Meditation",25,30,31,26,"Other",12,8,7,7,48,1
+667,"Control",25,27,28,29,"Female",21,19,7,5,47,0
+668,"Cognitive Behavioral Therapy",25,31,32,26,"Female",14,11,7,4,57,1
+669,"Mindfulness Meditation",26,31,32,37,"Male",15,11,7,5,47,1
+670,"Control",26,28,28,26,"Male",14,10,7,7,42,0
+671,"Cognitive Behavioral Therapy",24,30,30,33,"Female",12,7,8,4,44,1
+672,"Mindfulness Meditation",25,29,30,28,"Other",18,16,7,6,42,0
+673,"Control",25,26,27,35,"Other",10,8,6,4,55,0
+674,"Cognitive Behavioral Therapy",24,29,30,33,"Male",14,10,7,7,59,1
+675,"Mindfulness Meditation",25,30,32,25,"Male",15,11,8,5,44,1
+676,"Control",23,25,26,29,"Female",11,8,8,6,59,0
+677,"Cognitive Behavioral Therapy",24,30,31,27,"Female",18,17,6,3,40,1
+678,"Mindfulness Meditation",24,29,30,31,"Male",14,13,6,4,53,1
+679,"Control",24,25,26,28,"Other",17,14,7,3,43,0
+680,"Cognitive Behavioral Therapy",24,30,31,30,"Male",10,6,6,5,46,1
+681,"Mindfulness Meditation",25,30,31,27,"Female",14,13,8,4,49,1
+682,"Control",26,27,28,33,"Other",15,13,8,4,44,0
+683,"Cognitive Behavioral Therapy",24,30,30,30,"Female",11,6,8,3,43,1
+684,"Mindfulness Meditation",24,28,29,21,"Other",18,14,7,3,45,0
+685,"Control",24,25,27,28,"Other",16,14,8,7,52,0
+686,"Cognitive Behavioral Therapy",25,30,31,26,"Female",15,12,7,4,54,1
+687,"Mindfulness Meditation",25,30,31,34,"Female",16,10,8,6,52,1
+688,"Control",25,25,25,22,"Male",15,12,7,4,59,0
+689,"Cognitive Behavioral Therapy",25,31,32,18,"Female",17,16,6,6,41,1
+690,"Mindfulness Meditation",23,28,29,30,"Female",16,13,8,6,52,1
+691,"Control",25,26,27,33,"Male",20,18,7,4,48,0
+692,"Cognitive Behavioral Therapy",26,32,33,30,"Other",14,10,7,6,50,1
+693,"Mindfulness Meditation",26,31,32,35,"Male",18,15,7,3,56,1
+694,"Control",24,26,27,33,"Male",15,13,6,6,41,0
+695,"Cognitive Behavioral Therapy",23,29,30,23,"Female",21,18,7,4,53,1
+696,"Mindfulness Meditation",27,32,34,33,"Male",15,12,6,6,45,1
+697,"Control",25,26,28,25,"Male",15,12,6,7,51,0
+698,"Cognitive Behavioral Therapy",25,31,32,34,"Other",14,10,8,5,43,1
+699,"Mindfulness Meditation",25,30,31,33,"Other",9,5,7,6,41,1
+700,"Control",23,24,26,28,"Other",9,6,6,4,58,0
+701,"Cognitive Behavioral Therapy",24,31,32,33,"Female",15,11,7,4,51,1
+702,"Mindfulness Meditation",23,28,29,27,"Female",15,13,6,3,46,1
+703,"Control",24,23,24,33,"Male",13,9,6,3,58,0
+704,"Cognitive Behavioral Therapy",25,31,32,16,"Female",17,14,6,4,47,1
+705,"Mindfulness Meditation",24,29,30,23,"Female",19,17,7,4,58,1
+706,"Control",26,26,27,29,"Female",20,17,8,5,51,0
+707,"Cognitive Behavioral Therapy",25,31,32,25,"Male",8,4,7,5,46,1
+708,"Mindfulness Meditation",24,29,30,15,"Other",17,14,7,4,56,1
+709,"Control",25,26,27,24,"Other",18,15,8,6,56,0
+710,"Cognitive Behavioral Therapy",26,32,33,36,"Female",17,14,8,4,60,1
+711,"Mindfulness Meditation",26,31,32,22,"Other",18,14,6,4,56,1
+712,"Control",25,27,29,29,"Male",15,11,6,4,45,0
+713,"Cognitive Behavioral Therapy",25,31,32,26,"Other",14,12,7,3,58,1
+714,"Mindfulness Meditation",25,30,32,28,"Female",18,12,7,4,57,1
+715,"Control",26,27,27,27,"Female",13,11,8,6,56,0
+716,"Cognitive Behavioral Therapy",26,32,33,27,"Male",18,15,6,6,50,1
+717,"Mindfulness Meditation",26,32,32,27,"Male",13,8,6,4,42,1
+718,"Control",25,26,27,17,"Other",13,8,7,4,48,0
+719,"Cognitive Behavioral Therapy",25,31,32,28,"Other",13,9,8,5,56,1
+720,"Mindfulness Meditation",25,30,30,29,"Other",18,16,6,4,48,1
+721,"Control",24,25,26,30,"Female",15,12,7,5,40,0
+722,"Cognitive Behavioral Therapy",23,29,30,35,"Female",17,14,8,5,47,1
+723,"Mindfulness Meditation",26,30,31,28,"Other",22,19,6,4,57,0
+724,"Control",23,23,23,29,"Other",12,10,6,6,52,0
+725,"Cognitive Behavioral Therapy",25,31,32,21,"Male",19,16,6,5,58,1
+726,"Mindfulness Meditation",25,30,31,28,"Male",17,14,7,4,57,1
+727,"Control",26,26,26,20,"Female",15,12,6,6,52,0
+728,"Cognitive Behavioral Therapy",25,31,32,38,"Male",11,8,7,6,59,1
+729,"Mindfulness Meditation",24,29,30,26,"Other",24,19,7,4,41,1
+730,"Control",26,27,28,30,"Male",10,7,6,7,48,0
+731,"Cognitive Behavioral Therapy",27,32,32,30,"Female",13,12,8,5,57,1
+732,"Mindfulness Meditation",26,31,32,21,"Female",18,15,6,4,53,1
+733,"Control",23,24,25,30,"Other",10,8,7,6,56,0
+734,"Cognitive Behavioral Therapy",26,32,32,23,"Male",16,13,7,5,41,1
+735,"Mindfulness Meditation",25,30,31,30,"Other",10,8,7,5,58,1
+736,"Control",26,27,29,25,"Female",16,14,8,6,49,0
+737,"Cognitive Behavioral Therapy",26,32,33,25,"Other",22,19,7,3,49,1
+738,"Mindfulness Meditation",25,30,31,30,"Male",16,13,7,5,53,1
+739,"Control",25,26,27,30,"Female",16,13,7,3,50,0
+740,"Cognitive Behavioral Therapy",26,31,32,27,"Male",17,13,7,4,51,1
+741,"Mindfulness Meditation",26,31,32,24,"Other",13,11,7,6,58,1
+742,"Control",26,27,28,29,"Female",12,9,6,4,49,0
+743,"Cognitive Behavioral Therapy",27,33,34,28,"Other",13,11,7,4,54,1
+744,"Mindfulness Meditation",26,32,32,33,"Male",16,12,8,6,59,1
+745,"Control",25,26,27,25,"Other",12,7,7,5,43,0
+746,"Cognitive Behavioral Therapy",23,28,28,27,"Female",15,10,6,6,56,1
+747,"Mindfulness Meditation",28,33,34,39,"Female",17,12,7,7,55,1
+748,"Control",25,26,27,22,"Male",13,11,8,7,59,0
+749,"Cognitive Behavioral Therapy",27,33,34,30,"Male",15,12,6,7,53,1
+750,"Mindfulness Meditation",25,30,32,30,"Other",16,14,7,6,41,1
+751,"Control",27,28,28,26,"Female",10,8,6,5,55,0
+752,"Cognitive Behavioral Therapy",25,31,33,24,"Male",15,11,7,7,49,1
+753,"Mindfulness Meditation",26,31,32,21,"Male",11,10,6,5,54,1
+754,"Control",25,25,26,21,"Male",14,13,6,4,53,0
+755,"Cognitive Behavioral Therapy",25,31,32,27,"Male",17,14,7,5,54,1
+756,"Mindfulness Meditation",25,30,31,34,"Female",17,14,6,7,43,1
+757,"Control",26,27,28,28,"Male",12,10,7,4,55,0
+758,"Cognitive Behavioral Therapy",25,31,31,36,"Female",11,9,7,5,43,1
+759,"Mindfulness Meditation",23,28,30,25,"Male",20,18,8,5,48,1
+760,"Control",25,26,26,31,"Other",9,7,8,5,40,0
+761,"Cognitive Behavioral Therapy",26,32,32,29,"Male",12,9,8,6,58,1
+762,"Mindfulness Meditation",26,31,32,30,"Other",14,11,7,6,47,1
+763,"Control",26,27,27,29,"Female",15,12,8,4,44,0
+764,"Cognitive Behavioral Therapy",23,28,29,32,"Female",13,9,7,3,60,1
+765,"Mindfulness Meditation",25,29,29,28,"Female",11,7,8,6,54,0
+766,"Control",26,26,26,33,"Female",15,11,7,4,45,0
+767,"Cognitive Behavioral Therapy",26,32,33,30,"Other",11,8,7,6,40,1
+768,"Mindfulness Meditation",25,30,31,28,"Female",14,12,7,6,43,1
+769,"Control",25,27,28,27,"Male",16,14,7,6,51,0
+770,"Cognitive Behavioral Therapy",26,32,33,22,"Female",18,15,7,3,41,1
+771,"Mindfulness Meditation",23,28,29,25,"Female",18,15,7,6,50,1
+772,"Control",25,26,27,27,"Female",18,13,7,4,54,0
+773,"Cognitive Behavioral Therapy",25,32,33,33,"Female",14,11,6,4,46,1
+774,"Mindfulness Meditation",23,28,29,32,"Male",10,6,6,6,41,1
+775,"Control",25,25,26,24,"Female",10,6,7,6,41,0
+776,"Cognitive Behavioral Therapy",27,33,33,26,"Other",17,13,6,3,52,1
+777,"Mindfulness Meditation",25,31,32,37,"Female",8,5,6,6,41,1
+778,"Control",25,26,27,21,"Female",17,14,7,4,58,0
+779,"Cognitive Behavioral Therapy",25,31,32,29,"Other",15,13,8,3,49,1
+780,"Mindfulness Meditation",25,30,31,29,"Female",21,20,6,7,58,1
+781,"Control",26,27,28,25,"Female",15,12,7,6,41,0
+782,"Cognitive Behavioral Therapy",26,32,33,21,"Other",9,6,8,3,44,1
+783,"Mindfulness Meditation",25,30,30,26,"Male",17,16,7,6,49,1
+784,"Control",24,25,26,41,"Female",18,16,7,5,57,0
+785,"Cognitive Behavioral Therapy",24,30,30,27,"Male",14,11,6,6,43,1
+786,"Mindfulness Meditation",24,30,31,27,"Female",14,12,7,5,44,1
+787,"Control",26,27,28,29,"Female",16,11,6,5,57,0
+788,"Cognitive Behavioral Therapy",23,29,29,22,"Male",16,13,7,6,48,1
+789,"Mindfulness Meditation",23,28,29,32,"Other",15,12,7,6,56,1
+790,"Control",24,25,26,32,"Other",15,13,7,6,42,0
+791,"Cognitive Behavioral Therapy",25,30,30,26,"Male",21,17,7,4,46,1
+792,"Mindfulness Meditation",24,29,30,28,"Male",18,14,6,5,40,1
+793,"Control",26,28,30,25,"Male",21,19,8,7,57,0
+794,"Cognitive Behavioral Therapy",25,31,32,31,"Male",14,11,8,5,55,1
+795,"Mindfulness Meditation",25,30,31,20,"Female",14,10,6,6,60,1
+796,"Control",26,27,28,27,"Female",14,10,7,6,58,0
+797,"Cognitive Behavioral Therapy",25,31,32,31,"Male",17,13,7,4,55,1
+798,"Mindfulness Meditation",25,30,31,36,"Female",20,17,7,5,53,1
+799,"Control",25,26,27,23,"Other",16,14,8,6,54,0
+800,"Cognitive Behavioral Therapy",26,32,33,22,"Female",14,10,8,7,47,1
+801,"Mindfulness Meditation",25,30,31,27,"Female",16,14,8,7,45,1
+802,"Control",24,25,26,28,"Other",14,11,7,7,57,0
+803,"Cognitive Behavioral Therapy",26,32,33,32,"Other",14,11,7,4,44,1
+804,"Mindfulness Meditation",26,32,33,27,"Other",12,9,7,4,59,1
+805,"Control",25,27,28,25,"Female",15,11,7,4,49,0
+806,"Cognitive Behavioral Therapy",25,32,33,37,"Male",14,9,6,4,59,1
+807,"Mindfulness Meditation",25,30,31,26,"Other",12,8,7,4,56,1
+808,"Control",27,28,29,32,"Female",15,11,8,5,52,0
+809,"Cognitive Behavioral Therapy",25,31,32,32,"Male",16,13,6,3,44,1
+810,"Mindfulness Meditation",25,30,31,26,"Female",15,10,8,3,56,1
+811,"Control",22,23,24,36,"Female",14,11,8,5,44,0
+812,"Cognitive Behavioral Therapy",23,29,29,22,"Female",14,13,6,5,52,1
+813,"Mindfulness Meditation",25,30,31,23,"Male",18,16,7,3,46,1
+814,"Control",25,26,27,34,"Male",17,15,8,4,50,0
+815,"Cognitive Behavioral Therapy",25,30,32,20,"Female",15,12,7,7,45,1
+816,"Mindfulness Meditation",26,30,31,31,"Male",12,8,8,5,59,0
+817,"Control",25,26,27,29,"Other",15,11,6,6,49,0
+818,"Cognitive Behavioral Therapy",26,32,32,32,"Male",11,9,8,6,55,1
+819,"Mindfulness Meditation",24,28,29,32,"Male",18,16,8,4,42,0
+820,"Control",24,25,26,25,"Female",16,14,8,6,51,0
+821,"Cognitive Behavioral Therapy",24,29,31,25,"Male",19,15,7,4,41,1
+822,"Mindfulness Meditation",26,30,31,32,"Female",18,15,7,4,46,0
+823,"Control",25,26,27,32,"Other",16,12,6,6,59,0
+824,"Cognitive Behavioral Therapy",26,32,33,22,"Other",14,11,8,7,43,1
+825,"Mindfulness Meditation",25,31,32,22,"Other",15,11,7,6,54,1
+826,"Control",24,25,26,23,"Other",11,7,8,6,45,0
+827,"Cognitive Behavioral Therapy",25,32,34,28,"Female",14,10,6,5,53,1
+828,"Mindfulness Meditation",23,28,29,28,"Male",18,15,8,6,54,1
+829,"Control",24,25,26,40,"Female",16,13,7,7,41,0
+830,"Cognitive Behavioral Therapy",24,30,31,31,"Female",15,13,7,7,41,1
+831,"Mindfulness Meditation",26,30,31,27,"Other",14,9,6,3,40,0
+832,"Control",24,25,26,25,"Other",19,18,6,5,47,0
+833,"Cognitive Behavioral Therapy",26,32,33,25,"Other",17,13,8,5,57,1
+834,"Mindfulness Meditation",27,32,33,25,"Female",12,9,6,6,45,1
+835,"Control",25,26,28,23,"Other",16,14,8,5,55,0
+836,"Cognitive Behavioral Therapy",25,31,32,29,"Male",18,14,8,6,40,1
+837,"Mindfulness Meditation",23,29,30,12,"Female",14,10,8,6,54,1
+838,"Control",24,26,26,22,"Male",15,12,8,4,46,0
+839,"Cognitive Behavioral Therapy",25,31,32,33,"Female",14,10,7,4,55,1
+840,"Mindfulness Meditation",25,30,30,29,"Other",19,16,8,6,50,1
+841,"Control",24,25,26,31,"Other",15,11,7,6,56,0
+842,"Cognitive Behavioral Therapy",28,34,34,25,"Other",23,20,7,5,42,1
+843,"Mindfulness Meditation",25,30,31,35,"Male",9,7,6,4,50,1
+844,"Control",25,26,28,27,"Male",15,13,8,6,55,0
+845,"Cognitive Behavioral Therapy",26,32,33,31,"Female",18,15,8,6,41,1
+846,"Mindfulness Meditation",25,30,31,28,"Female",14,11,7,4,44,1
+847,"Control",24,25,27,30,"Male",21,18,6,4,49,0
+848,"Cognitive Behavioral Therapy",26,32,34,26,"Male",15,12,7,4,45,1
+849,"Mindfulness Meditation",27,32,34,34,"Other",12,9,8,4,59,1
+850,"Control",25,25,26,25,"Male",14,10,8,7,58,0
+851,"Cognitive Behavioral Therapy",26,31,31,42,"Female",14,11,7,3,46,1
+852,"Mindfulness Meditation",25,30,31,27,"Female",15,11,7,4,52,1
+853,"Control",26,28,29,29,"Male",15,12,7,7,43,0
+854,"Cognitive Behavioral Therapy",24,29,31,25,"Male",19,16,7,4,49,1
+855,"Mindfulness Meditation",27,33,34,32,"Other",13,9,8,5,41,1
+856,"Control",24,25,26,29,"Other",14,12,6,4,47,0
+857,"Cognitive Behavioral Therapy",24,30,32,31,"Male",15,12,7,3,53,1
+858,"Mindfulness Meditation",25,30,31,32,"Female",12,9,7,4,48,1
+859,"Control",25,26,27,24,"Other",16,14,7,5,55,0
+860,"Cognitive Behavioral Therapy",27,33,34,32,"Male",16,12,6,4,51,1
+861,"Mindfulness Meditation",26,31,32,22,"Other",11,10,8,4,56,1
+862,"Control",25,26,27,29,"Male",11,9,7,5,46,0
+863,"Cognitive Behavioral Therapy",24,31,32,33,"Male",15,12,7,3,55,1
+864,"Mindfulness Meditation",24,30,30,20,"Female",13,11,8,4,51,1
+865,"Control",25,26,28,26,"Male",17,14,8,5,57,0
+866,"Cognitive Behavioral Therapy",28,34,34,26,"Male",13,9,8,5,49,1
+867,"Mindfulness Meditation",23,28,29,18,"Male",15,11,7,4,58,1
+868,"Control",26,27,28,27,"Male",16,13,7,6,48,0
+869,"Cognitive Behavioral Therapy",24,31,33,35,"Male",13,11,8,4,46,1
+870,"Mindfulness Meditation",27,31,32,21,"Male",18,15,6,5,59,0
+871,"Control",24,26,27,23,"Female",16,12,8,7,44,0
+872,"Cognitive Behavioral Therapy",25,31,32,26,"Female",22,19,8,6,59,1
+873,"Mindfulness Meditation",24,29,31,28,"Female",14,10,7,5,56,1
+874,"Control",26,27,28,29,"Female",9,6,6,5,49,0
+875,"Cognitive Behavioral Therapy",26,32,33,29,"Other",19,17,8,6,59,1
+876,"Mindfulness Meditation",27,32,33,27,"Female",15,12,7,3,53,1
+877,"Control",26,28,28,40,"Other",20,18,7,7,51,0
+878,"Cognitive Behavioral Therapy",27,34,35,26,"Female",12,8,6,4,45,1
+879,"Mindfulness Meditation",26,31,32,21,"Other",23,20,7,5,56,1
+880,"Control",25,26,27,20,"Other",19,15,7,4,56,0
+881,"Cognitive Behavioral Therapy",25,30,31,27,"Female",14,12,7,3,57,1
+882,"Mindfulness Meditation",24,29,30,25,"Female",18,14,7,3,49,1
+883,"Control",25,26,27,33,"Female",15,11,8,6,46,0
+884,"Cognitive Behavioral Therapy",26,33,33,27,"Other",21,17,8,6,59,1
+885,"Mindfulness Meditation",26,31,32,28,"Female",13,11,6,7,51,1
+886,"Control",25,26,27,20,"Male",16,13,7,6,47,0
+887,"Cognitive Behavioral Therapy",24,31,32,27,"Female",12,7,6,4,53,1
+888,"Mindfulness Meditation",24,29,29,27,"Male",15,10,7,7,43,1
+889,"Control",24,26,27,21,"Female",12,9,6,7,55,0
+890,"Cognitive Behavioral Therapy",25,31,32,23,"Other",20,16,7,3,49,1
+891,"Mindfulness Meditation",24,29,30,24,"Other",14,11,7,5,47,1
+892,"Control",26,28,28,32,"Male",13,9,8,7,49,0
+893,"Cognitive Behavioral Therapy",24,30,31,31,"Male",18,15,8,5,42,1
+894,"Mindfulness Meditation",27,32,33,31,"Male",10,7,7,6,51,1
+895,"Control",25,26,27,35,"Other",18,16,7,6,55,0
+896,"Cognitive Behavioral Therapy",24,29,30,26,"Female",13,10,8,6,44,1
+897,"Mindfulness Meditation",25,31,32,34,"Other",16,13,7,6,41,1
+898,"Control",25,26,26,27,"Female",11,6,8,4,50,0
+899,"Cognitive Behavioral Therapy",25,32,33,34,"Male",17,13,8,4,46,1
+900,"Mindfulness Meditation",25,30,31,22,"Male",18,15,7,4,54,1
+901,"Control",24,26,26,25,"Male",16,13,8,7,57,0
+902,"Cognitive Behavioral Therapy",24,30,31,33,"Other",13,11,7,4,50,1
+903,"Mindfulness Meditation",25,31,32,36,"Other",17,13,6,7,46,1
+904,"Control",27,29,30,28,"Other",14,12,8,3,44,0
+905,"Cognitive Behavioral Therapy",26,32,33,26,"Female",16,14,7,7,52,1
+906,"Mindfulness Meditation",24,29,30,31,"Other",14,11,7,6,54,1
+907,"Control",26,27,28,27,"Female",22,19,7,6,44,0
+908,"Cognitive Behavioral Therapy",25,30,31,28,"Male",10,8,7,4,46,1
+909,"Mindfulness Meditation",25,29,30,29,"Other",17,14,8,3,52,0
+910,"Control",25,27,28,33,"Male",21,18,7,4,47,0
+911,"Cognitive Behavioral Therapy",28,33,34,23,"Male",12,8,7,5,55,1
+912,"Mindfulness Meditation",24,29,30,26,"Other",10,6,6,7,41,1
+913,"Control",25,27,29,31,"Other",11,8,7,6,57,0
+914,"Cognitive Behavioral Therapy",23,30,31,17,"Male",15,11,8,4,59,1
+915,"Mindfulness Meditation",26,30,31,34,"Male",19,16,8,6,54,0
+916,"Control",26,28,30,25,"Female",17,15,7,7,47,0
+917,"Cognitive Behavioral Therapy",26,31,32,23,"Female",15,12,8,5,49,1
+918,"Mindfulness Meditation",23,28,28,29,"Other",12,10,8,7,59,1
+919,"Control",25,26,27,39,"Other",13,11,8,7,44,0
+920,"Cognitive Behavioral Therapy",27,33,35,25,"Other",15,12,6,7,47,1
+921,"Mindfulness Meditation",25,31,31,21,"Male",15,12,7,6,48,1
+922,"Control",25,27,28,27,"Female",15,13,7,6,41,0
+923,"Cognitive Behavioral Therapy",25,31,32,34,"Other",9,4,7,5,55,1
+924,"Mindfulness Meditation",25,30,31,27,"Female",16,13,6,5,47,1
+925,"Control",26,27,28,31,"Other",14,11,6,4,59,0
+926,"Cognitive Behavioral Therapy",26,32,34,34,"Other",10,9,6,6,59,1
+927,"Mindfulness Meditation",25,30,31,19,"Female",10,7,6,4,52,1
+928,"Control",25,26,27,31,"Male",15,12,7,6,43,0
+929,"Cognitive Behavioral Therapy",27,32,33,25,"Other",12,8,6,7,46,1
+930,"Mindfulness Meditation",25,30,30,28,"Male",10,7,8,4,49,1
+931,"Control",25,26,27,39,"Female",15,11,8,5,43,0
+932,"Cognitive Behavioral Therapy",24,31,32,29,"Female",16,14,7,4,51,1
+933,"Mindfulness Meditation",25,29,30,32,"Female",18,15,8,7,47,0
+934,"Control",25,25,26,23,"Other",12,9,7,5,51,0
+935,"Cognitive Behavioral Therapy",25,31,31,30,"Male",15,12,8,3,59,1
+936,"Mindfulness Meditation",24,28,29,27,"Other",18,16,7,4,47,0
+937,"Control",24,25,27,27,"Female",11,7,8,4,41,0
+938,"Cognitive Behavioral Therapy",24,30,31,31,"Other",18,16,6,6,59,1
+939,"Mindfulness Meditation",25,30,30,20,"Female",20,17,7,3,43,1
+940,"Control",26,26,28,35,"Female",13,9,7,5,58,0
+941,"Cognitive Behavioral Therapy",26,32,33,39,"Male",15,10,7,6,52,1
+942,"Mindfulness Meditation",25,30,32,26,"Female",3,1,6,4,58,1
+943,"Control",23,25,26,31,"Male",9,8,7,6,40,0
+944,"Cognitive Behavioral Therapy",24,30,32,38,"Female",19,17,8,7,48,1
+945,"Mindfulness Meditation",25,30,31,24,"Male",6,2,8,4,58,1
+946,"Control",25,26,27,28,"Male",15,12,7,7,46,0
+947,"Cognitive Behavioral Therapy",24,30,32,40,"Other",12,11,6,6,48,1
+948,"Mindfulness Meditation",27,32,34,23,"Other",14,12,6,4,56,1
+949,"Control",25,26,27,33,"Male",13,11,7,7,48,0
+950,"Cognitive Behavioral Therapy",24,30,31,30,"Female",14,13,8,4,52,1
+951,"Mindfulness Meditation",25,30,31,26,"Male",15,11,6,7,54,1
+952,"Control",24,25,26,30,"Female",16,13,8,6,60,0
+953,"Cognitive Behavioral Therapy",25,31,32,26,"Male",14,10,6,4,60,1
+954,"Mindfulness Meditation",25,31,32,32,"Other",18,15,7,5,51,1
+955,"Control",25,27,28,25,"Male",12,8,6,5,43,0
+956,"Cognitive Behavioral Therapy",23,29,30,19,"Female",15,12,7,3,50,1
+957,"Mindfulness Meditation",25,30,31,32,"Other",9,6,6,7,45,1
+958,"Control",25,26,27,34,"Male",16,12,7,6,51,0
+959,"Cognitive Behavioral Therapy",24,30,31,29,"Female",15,14,6,5,54,1
+960,"Mindfulness Meditation",26,31,33,24,"Female",17,14,7,4,43,1
+961,"Control",26,26,28,26,"Other",11,6,6,7,41,0
+962,"Cognitive Behavioral Therapy",27,33,34,21,"Male",13,10,8,5,57,1
+963,"Mindfulness Meditation",25,30,31,21,"Female",11,5,8,7,50,1
+964,"Control",25,27,29,34,"Female",15,12,8,4,55,0
+965,"Cognitive Behavioral Therapy",25,31,32,18,"Male",13,10,8,6,52,1
+966,"Mindfulness Meditation",25,30,31,31,"Female",14,10,7,6,52,1
+967,"Control",23,24,25,26,"Female",18,15,7,4,52,0
+968,"Cognitive Behavioral Therapy",23,29,31,21,"Female",21,18,6,3,42,1
+969,"Mindfulness Meditation",25,30,32,27,"Female",9,6,7,6,50,1
+970,"Control",24,25,25,27,"Female",11,9,6,6,54,0
+971,"Cognitive Behavioral Therapy",25,30,31,34,"Male",19,18,8,5,55,1
+972,"Mindfulness Meditation",23,28,28,40,"Female",15,13,7,3,54,1
+973,"Control",24,25,26,37,"Other",12,10,7,7,47,0
+974,"Cognitive Behavioral Therapy",24,30,31,36,"Female",17,16,7,5,57,1
+975,"Mindfulness Meditation",26,32,33,36,"Other",12,9,6,4,52,1
+976,"Control",24,25,27,33,"Male",15,12,6,6,52,0
+977,"Cognitive Behavioral Therapy",24,30,30,26,"Female",16,11,7,5,57,1
+978,"Mindfulness Meditation",25,30,31,29,"Other",17,14,8,3,42,1
+979,"Control",25,26,28,20,"Male",17,13,7,6,54,0
+980,"Cognitive Behavioral Therapy",25,32,33,24,"Other",17,14,8,6,55,1
+981,"Mindfulness Meditation",27,31,32,24,"Other",16,13,7,6,52,0
+982,"Control",24,26,27,23,"Male",18,15,6,6,52,0
+983,"Cognitive Behavioral Therapy",25,31,33,35,"Female",14,11,8,4,51,1
+984,"Mindfulness Meditation",24,29,30,31,"Other",12,7,6,3,47,1
+985,"Control",27,29,29,29,"Other",16,14,8,7,60,0
+986,"Cognitive Behavioral Therapy",24,31,32,28,"Female",16,14,6,3,48,1
+987,"Mindfulness Meditation",25,30,30,33,"Male",18,13,7,6,48,1
+988,"Control",26,28,28,32,"Other",12,9,8,3,44,0
+989,"Cognitive Behavioral Therapy",24,30,32,23,"Female",16,14,7,4,48,1
+990,"Mindfulness Meditation",27,32,33,18,"Other",14,13,7,6,51,1
+991,"Control",26,26,26,22,"Male",17,16,8,3,52,0
+992,"Cognitive Behavioral Therapy",24,30,31,26,"Other",18,14,7,5,56,1
+993,"Mindfulness Meditation",25,30,30,28,"Other",18,16,8,5,57,1
+994,"Control",25,26,27,36,"Female",12,10,7,5,42,0
+995,"Cognitive Behavioral Therapy",25,30,31,31,"Male",12,8,6,6,50,1
+996,"Mindfulness Meditation",25,31,31,31,"Male",13,11,7,6,45,1
+997,"Control",26,27,29,32,"Male",16,13,6,6,50,0
+998,"Cognitive Behavioral Therapy",24,30,32,27,"Female",13,11,6,4,51,1
+999,"Mindfulness Meditation",24,30,31,23,"Male",16,13,8,5,44,1
+1000,"Control",25,26,28,24,"Male",18,15,6,3,45,0
+1001,"Cognitive Behavioral Therapy",24,30,31,21,"Male",17,14,6,4,58,1
+1002,"Mindfulness Meditation",24,29,30,22,"Female",19,15,8,6,56,1
+1003,"Control",25,26,27,20,"Male",15,13,7,4,47,0
+1004,"Cognitive Behavioral Therapy",25,32,32,32,"Male",16,13,7,5,41,1
+1005,"Mindfulness Meditation",22,27,27,22,"Other",12,9,7,6,52,1
+1006,"Control",26,28,30,31,"Female",17,14,6,6,43,0
+1007,"Cognitive Behavioral Therapy",25,30,31,40,"Female",10,7,6,4,58,1
+1008,"Mindfulness Meditation",27,33,34,27,"Female",11,7,7,3,49,1
+1009,"Control",26,28,28,27,"Female",16,13,8,7,41,0
+1010,"Cognitive Behavioral Therapy",25,31,33,32,"Male",12,9,7,6,53,1
+1011,"Mindfulness Meditation",28,34,36,28,"Other",16,14,7,4,58,1
+1012,"Control",28,28,30,24,"Other",11,10,8,6,47,0
+1013,"Cognitive Behavioral Therapy",24,30,30,21,"Male",15,13,7,7,54,1
+1014,"Mindfulness Meditation",25,30,30,28,"Other",10,6,8,6,59,1
+1015,"Control",25,26,27,26,"Female",16,12,6,6,48,0
+1016,"Cognitive Behavioral Therapy",25,32,33,30,"Male",10,7,7,4,49,1
+1017,"Mindfulness Meditation",25,30,31,29,"Male",16,14,7,5,55,1
+1018,"Control",24,25,26,34,"Male",15,13,6,3,47,0
+1019,"Cognitive Behavioral Therapy",25,31,32,31,"Female",18,14,7,3,46,1
+1020,"Mindfulness Meditation",27,32,33,34,"Female",22,19,6,5,58,1
+1021,"Control",25,26,28,28,"Female",10,7,7,6,50,0
+1022,"Cognitive Behavioral Therapy",25,32,32,32,"Other",14,11,6,7,53,1
+1023,"Mindfulness Meditation",26,31,32,27,"Male",13,9,7,5,44,1
+1024,"Control",26,27,27,27,"Female",13,11,7,4,43,0
+1025,"Cognitive Behavioral Therapy",23,29,30,28,"Female",11,6,8,4,54,1
+1026,"Mindfulness Meditation",25,30,32,22,"Other",16,14,6,3,41,1
+1027,"Control",27,29,31,22,"Female",16,11,7,4,48,0
+1028,"Cognitive Behavioral Therapy",26,32,32,27,"Female",17,14,7,6,41,1
+1029,"Mindfulness Meditation",25,30,30,21,"Male",20,17,7,5,48,1
+1030,"Control",26,27,28,28,"Other",10,6,6,7,55,0
+1031,"Cognitive Behavioral Therapy",24,29,30,32,"Other",16,12,7,4,58,1
+1032,"Mindfulness Meditation",25,30,31,24,"Female",14,11,6,6,42,1
+1033,"Control",24,25,26,28,"Male",14,12,7,6,59,0
+1034,"Cognitive Behavioral Therapy",25,31,31,20,"Male",13,10,7,4,48,1
+1035,"Mindfulness Meditation",26,31,32,33,"Female",14,10,6,6,45,1
+1036,"Control",24,25,25,26,"Female",18,14,6,5,46,0
+1037,"Cognitive Behavioral Therapy",25,31,33,36,"Female",13,11,6,4,56,1
+1038,"Mindfulness Meditation",25,30,31,28,"Male",14,11,6,6,58,1
+1039,"Control",25,26,27,37,"Female",16,11,7,4,54,0
+1040,"Cognitive Behavioral Therapy",27,33,35,30,"Female",16,13,8,7,50,1
+1041,"Mindfulness Meditation",24,28,30,27,"Male",20,18,8,5,55,0
+1042,"Control",26,27,28,33,"Female",14,11,7,6,40,0
+1043,"Cognitive Behavioral Therapy",25,30,31,31,"Male",14,13,7,5,55,1
+1044,"Mindfulness Meditation",25,30,32,25,"Male",10,9,7,5,56,1
+1045,"Control",25,26,27,32,"Female",19,17,7,4,46,0
+1046,"Cognitive Behavioral Therapy",24,30,30,31,"Male",17,14,7,7,52,1
+1047,"Mindfulness Meditation",24,30,31,30,"Male",18,16,7,7,50,1
+1048,"Control",25,26,26,26,"Other",12,10,6,7,49,0
+1049,"Cognitive Behavioral Therapy",27,33,34,28,"Female",20,19,8,4,45,1
+1050,"Mindfulness Meditation",25,29,30,32,"Female",13,10,7,4,49,0
+1051,"Control",25,26,27,34,"Male",20,17,8,5,48,0
+1052,"Cognitive Behavioral Therapy",25,31,31,29,"Female",15,13,7,6,56,1
+1053,"Mindfulness Meditation",25,30,31,24,"Other",17,14,6,6,46,1
+1054,"Control",24,25,27,32,"Male",15,12,7,6,54,0
+1055,"Cognitive Behavioral Therapy",26,32,33,29,"Male",12,10,8,5,49,1
+1056,"Mindfulness Meditation",26,30,31,34,"Other",15,11,6,6,48,0
+1057,"Control",24,25,26,20,"Male",13,9,7,4,56,0
+1058,"Cognitive Behavioral Therapy",25,31,32,24,"Other",12,8,7,5,51,1
+1059,"Mindfulness Meditation",26,31,32,31,"Female",15,11,7,5,42,1
+1060,"Control",26,27,28,21,"Other",12,9,8,3,48,0
+1061,"Cognitive Behavioral Therapy",26,33,35,42,"Female",15,12,7,6,53,1
+1062,"Mindfulness Meditation",24,30,30,24,"Other",16,14,7,3,49,1
+1063,"Control",26,27,28,30,"Other",17,15,7,3,52,0
+1064,"Cognitive Behavioral Therapy",26,32,33,19,"Female",12,8,8,4,54,1
+1065,"Mindfulness Meditation",25,30,31,39,"Male",17,14,7,4,57,1
+1066,"Control",24,24,24,32,"Male",15,12,6,7,50,0
+1067,"Cognitive Behavioral Therapy",24,30,31,25,"Male",14,10,8,7,41,1
+1068,"Mindfulness Meditation",25,31,31,29,"Other",18,15,7,5,56,1
+1069,"Control",25,26,27,24,"Other",16,12,7,7,54,0
+1070,"Cognitive Behavioral Therapy",27,33,34,19,"Female",13,9,8,5,58,1
+1071,"Mindfulness Meditation",26,31,32,23,"Other",11,6,6,6,53,1
+1072,"Control",25,26,26,23,"Other",16,15,6,6,53,0
+1073,"Cognitive Behavioral Therapy",24,30,31,34,"Other",13,10,8,3,46,1
+1074,"Mindfulness Meditation",24,29,31,30,"Other",20,17,7,5,49,1
+1075,"Control",25,25,26,26,"Female",17,15,7,6,51,0
+1076,"Cognitive Behavioral Therapy",25,30,32,27,"Other",7,6,8,5,46,1
+1077,"Mindfulness Meditation",26,31,31,33,"Other",12,8,7,5,47,1
+1078,"Control",25,26,27,23,"Male",11,7,7,3,50,0
+1079,"Cognitive Behavioral Therapy",25,31,32,31,"Male",12,9,6,6,59,1
+1080,"Mindfulness Meditation",24,29,30,23,"Female",10,6,8,6,53,1
+1081,"Control",27,28,29,32,"Male",17,13,7,5,52,0
+1082,"Cognitive Behavioral Therapy",25,30,31,34,"Female",16,13,7,6,50,1
+1083,"Mindfulness Meditation",25,30,32,26,"Other",16,12,6,3,49,1
+1084,"Control",23,24,26,30,"Female",18,17,8,6,51,0
+1085,"Cognitive Behavioral Therapy",26,32,32,17,"Other",15,12,6,4,50,1
+1086,"Mindfulness Meditation",24,29,30,30,"Male",19,16,8,4,44,1
+1087,"Control",24,25,26,30,"Other",12,11,7,5,45,0
+1088,"Cognitive Behavioral Therapy",26,32,34,30,"Other",13,12,8,3,56,1
+1089,"Mindfulness Meditation",25,30,31,34,"Other",13,10,8,4,52,1
+1090,"Control",23,24,26,23,"Male",14,11,8,6,54,0
+1091,"Cognitive Behavioral Therapy",27,34,35,35,"Other",12,8,8,6,43,1
+1092,"Mindfulness Meditation",23,27,28,23,"Female",17,13,7,3,55,0
+1093,"Control",26,27,28,20,"Male",15,11,8,5,52,0
+1094,"Cognitive Behavioral Therapy",26,32,33,39,"Female",18,16,8,4,41,1
+1095,"Mindfulness Meditation",24,30,31,32,"Female",10,7,6,5,41,1
+1096,"Control",25,26,27,32,"Female",10,8,7,6,52,0
+1097,"Cognitive Behavioral Therapy",25,31,31,31,"Male",13,10,7,4,48,1
+1098,"Mindfulness Meditation",26,31,32,27,"Female",12,8,7,4,44,1
+1099,"Control",25,25,26,33,"Female",10,6,6,6,57,0
+1100,"Cognitive Behavioral Therapy",25,31,32,35,"Male",16,14,8,4,43,1
+1101,"Mindfulness Meditation",26,32,34,20,"Female",17,13,7,5,47,1
+1102,"Control",26,27,29,22,"Male",19,15,6,4,57,0
+1103,"Cognitive Behavioral Therapy",24,30,31,24,"Female",17,12,8,6,55,1
+1104,"Mindfulness Meditation",24,29,30,31,"Male",16,12,7,6,49,1
+1105,"Control",25,25,25,16,"Male",19,16,6,4,60,0
+1106,"Cognitive Behavioral Therapy",25,30,31,27,"Female",14,11,7,6,54,1
+1107,"Mindfulness Meditation",24,29,30,21,"Male",15,11,8,4,57,1
+1108,"Control",25,26,27,26,"Other",16,13,8,6,53,0
+1109,"Cognitive Behavioral Therapy",24,30,31,20,"Other",22,19,6,5,55,1
+1110,"Mindfulness Meditation",25,30,30,34,"Male",16,14,7,6,43,1
+1111,"Control",24,26,27,27,"Other",13,10,6,4,56,0
+1112,"Cognitive Behavioral Therapy",26,32,33,27,"Female",16,13,6,4,56,1
+1113,"Mindfulness Meditation",27,32,33,35,"Other",12,9,7,7,42,1
+1114,"Control",24,25,26,24,"Female",12,8,6,6,58,0
+1115,"Cognitive Behavioral Therapy",26,33,34,20,"Female",19,16,8,7,44,1
+1116,"Mindfulness Meditation",26,31,31,25,"Male",11,7,7,7,54,1
+1117,"Control",25,26,27,25,"Female",10,8,7,4,60,0
+1118,"Cognitive Behavioral Therapy",25,31,32,30,"Male",14,11,8,6,42,1
+1119,"Mindfulness Meditation",27,32,33,26,"Female",13,8,6,6,46,1
+1120,"Control",23,24,25,21,"Female",16,12,7,6,50,0
+1121,"Cognitive Behavioral Therapy",24,30,31,27,"Other",14,12,7,5,57,1
+1122,"Mindfulness Meditation",24,29,30,31,"Male",23,18,8,5,59,1
+1123,"Control",26,27,28,21,"Female",19,17,8,5,54,0
+1124,"Cognitive Behavioral Therapy",25,31,32,33,"Other",9,6,8,6,40,1
+1125,"Mindfulness Meditation",24,29,29,32,"Male",16,12,8,6,42,1
+1126,"Control",28,29,30,36,"Female",14,10,8,7,49,0
+1127,"Cognitive Behavioral Therapy",25,31,32,26,"Male",17,13,7,5,55,1
+1128,"Mindfulness Meditation",25,30,31,30,"Female",12,8,6,5,53,1
+1129,"Control",25,26,27,24,"Other",13,10,8,4,46,0
+1130,"Cognitive Behavioral Therapy",23,29,31,27,"Female",15,11,7,4,47,1
+1131,"Mindfulness Meditation",25,30,31,23,"Other",16,13,7,5,47,1
+1132,"Control",25,26,27,33,"Female",10,6,7,6,58,0
+1133,"Cognitive Behavioral Therapy",25,31,32,21,"Male",14,11,7,6,46,1
+1134,"Mindfulness Meditation",24,29,31,31,"Female",9,7,6,6,59,1
+1135,"Control",24,25,26,25,"Female",17,14,7,6,57,0
+1136,"Cognitive Behavioral Therapy",24,30,31,23,"Male",13,11,7,7,46,1
+1137,"Mindfulness Meditation",24,30,31,35,"Male",19,16,8,4,56,1
+1138,"Control",26,28,29,29,"Other",19,15,7,3,47,0
+1139,"Cognitive Behavioral Therapy",27,33,34,30,"Other",13,10,6,7,54,1
+1140,"Mindfulness Meditation",25,30,31,29,"Other",16,14,6,6,48,1
+1141,"Control",25,25,26,31,"Female",19,18,6,5,55,0
+1142,"Cognitive Behavioral Therapy",25,30,31,35,"Male",16,13,7,6,53,1
+1143,"Mindfulness Meditation",25,30,31,28,"Female",12,8,7,6,41,1
+1144,"Control",25,27,28,34,"Female",9,6,7,7,40,0
+1145,"Cognitive Behavioral Therapy",25,31,32,16,"Other",16,14,7,4,50,1
+1146,"Mindfulness Meditation",24,29,30,31,"Male",13,9,7,6,44,1
+1147,"Control",24,24,25,30,"Other",19,17,7,4,46,0
+1148,"Cognitive Behavioral Therapy",26,32,33,29,"Female",13,8,7,6,52,1
+1149,"Mindfulness Meditation",24,29,30,29,"Female",17,14,7,5,44,1
+1150,"Control",25,26,28,26,"Male",18,16,7,3,43,0
+1151,"Cognitive Behavioral Therapy",25,31,32,25,"Female",17,14,8,6,44,1
+1152,"Mindfulness Meditation",24,28,29,33,"Female",10,8,8,6,57,0
+1153,"Control",26,28,29,27,"Male",11,8,7,6,47,0
+1154,"Cognitive Behavioral Therapy",25,32,33,34,"Female",14,10,6,5,57,1
+1155,"Mindfulness Meditation",26,31,32,26,"Female",18,16,8,6,44,1
+1156,"Control",25,25,25,23,"Female",19,16,6,5,51,0
+1157,"Cognitive Behavioral Therapy",25,30,31,35,"Female",21,18,8,4,43,1
+1158,"Mindfulness Meditation",25,30,31,28,"Male",12,8,8,4,50,1
+1159,"Control",24,25,26,34,"Other",13,10,8,6,41,0
+1160,"Cognitive Behavioral Therapy",24,30,31,22,"Female",15,12,8,5,48,1
+1161,"Mindfulness Meditation",26,31,32,30,"Male",19,17,7,5,59,1
+1162,"Control",25,26,27,26,"Male",9,7,8,4,41,0
+1163,"Cognitive Behavioral Therapy",25,30,30,38,"Female",11,10,7,6,54,1
+1164,"Mindfulness Meditation",25,30,31,35,"Male",20,17,8,3,58,1
+1165,"Control",24,25,25,31,"Male",17,14,6,3,51,0
+1166,"Cognitive Behavioral Therapy",23,29,30,25,"Other",9,6,6,4,46,1
+1167,"Mindfulness Meditation",25,30,30,33,"Male",18,14,6,5,58,1
+1168,"Control",26,28,29,32,"Male",16,11,8,7,46,0
+1169,"Cognitive Behavioral Therapy",24,30,31,21,"Male",13,9,6,5,43,1
+1170,"Mindfulness Meditation",26,30,32,34,"Other",15,13,7,7,60,0
+1171,"Control",25,26,27,32,"Male",17,16,7,4,50,0
+1172,"Cognitive Behavioral Therapy",26,31,32,27,"Other",16,12,8,5,59,1
+1173,"Mindfulness Meditation",24,29,30,40,"Male",17,15,8,6,57,1
+1174,"Control",25,26,28,33,"Other",20,17,7,6,48,0
+1175,"Cognitive Behavioral Therapy",25,30,31,25,"Other",16,14,6,4,47,1
+1176,"Mindfulness Meditation",26,32,33,33,"Male",11,10,6,6,58,1
+1177,"Control",24,25,26,30,"Male",15,11,7,7,42,0
+1178,"Cognitive Behavioral Therapy",25,31,32,27,"Male",8,3,7,5,43,1
+1179,"Mindfulness Meditation",23,28,30,12,"Other",14,11,6,4,46,1
+1180,"Control",24,26,27,26,"Other",13,11,7,6,43,0
+1181,"Cognitive Behavioral Therapy",25,32,33,28,"Other",12,10,8,5,45,1
+1182,"Mindfulness Meditation",24,29,30,32,"Female",13,10,7,4,57,1
+1183,"Control",25,26,27,30,"Other",27,24,7,4,54,0
+1184,"Cognitive Behavioral Therapy",25,32,34,29,"Female",12,12,6,5,54,1
+1185,"Mindfulness Meditation",26,31,32,36,"Other",12,10,6,6,56,1
+1186,"Control",26,27,28,28,"Female",14,11,8,5,40,0
+1187,"Cognitive Behavioral Therapy",24,30,31,23,"Male",14,11,8,6,50,1
+1188,"Mindfulness Meditation",25,29,30,25,"Other",25,23,8,3,45,0
+1189,"Control",26,26,27,27,"Female",15,12,8,6,47,0
+1190,"Cognitive Behavioral Therapy",23,29,30,25,"Female",15,12,7,4,46,1
+1191,"Mindfulness Meditation",25,31,32,19,"Female",14,11,8,4,40,1
+1192,"Control",27,27,28,31,"Female",18,15,8,4,48,0
+1193,"Cognitive Behavioral Therapy",27,33,34,32,"Male",14,10,8,4,48,1
+1194,"Mindfulness Meditation",25,30,31,24,"Other",16,13,7,4,55,1
+1195,"Control",24,25,26,30,"Female",15,13,7,5,55,0
+1196,"Cognitive Behavioral Therapy",25,32,34,26,"Male",10,7,8,4,50,1
+1197,"Mindfulness Meditation",24,28,29,27,"Other",13,11,8,4,43,0
+1198,"Control",26,27,28,31,"Female",15,11,7,6,55,0
+1199,"Cognitive Behavioral Therapy",24,30,31,30,"Male",19,17,7,4,52,1
+1200,"Mindfulness Meditation",25,30,31,25,"Male",16,14,7,4,45,1
+1201,"Control",26,27,28,24,"Male",15,12,6,6,52,0
+1202,"Cognitive Behavioral Therapy",24,30,31,31,"Female",13,8,6,5,55,1
+1203,"Mindfulness Meditation",26,30,32,23,"Other",18,15,8,6,42,0
+1204,"Control",24,26,26,24,"Other",18,15,7,6,46,0
+1205,"Cognitive Behavioral Therapy",26,33,33,35,"Other",14,9,8,7,59,1
+1206,"Mindfulness Meditation",26,31,32,29,"Other",17,15,8,6,57,1
+1207,"Control",24,25,26,26,"Female",14,9,8,6,54,0
+1208,"Cognitive Behavioral Therapy",26,32,34,22,"Male",16,12,6,7,41,1
+1209,"Mindfulness Meditation",25,29,30,32,"Female",17,16,6,5,56,0
+1210,"Control",25,27,28,25,"Female",17,15,8,6,46,0
+1211,"Cognitive Behavioral Therapy",25,31,32,28,"Male",13,10,8,3,46,1
+1212,"Mindfulness Meditation",25,29,30,34,"Other",16,10,6,4,50,0
+1213,"Control",25,25,26,27,"Female",13,10,7,6,59,0
+1214,"Cognitive Behavioral Therapy",24,31,32,33,"Female",14,10,7,4,40,1
+1215,"Mindfulness Meditation",25,30,31,22,"Female",12,9,8,4,46,1
+1216,"Control",26,27,27,19,"Other",15,12,7,7,56,0
+1217,"Cognitive Behavioral Therapy",23,29,29,30,"Other",18,15,8,7,52,1
+1218,"Mindfulness Meditation",24,29,29,34,"Female",14,11,8,5,46,1
+1219,"Control",24,26,27,25,"Male",17,14,7,7,42,0
+1220,"Cognitive Behavioral Therapy",23,30,32,27,"Female",15,12,8,5,48,1
+1221,"Mindfulness Meditation",25,31,32,33,"Female",17,14,7,4,44,1
+1222,"Control",24,25,26,26,"Male",10,6,7,6,48,0
+1223,"Cognitive Behavioral Therapy",23,29,30,22,"Other",17,15,8,4,49,1
+1224,"Mindfulness Meditation",24,29,30,24,"Male",13,9,7,7,45,1
+1225,"Control",25,26,27,27,"Female",14,10,8,6,55,0
+1226,"Cognitive Behavioral Therapy",26,32,33,20,"Other",16,13,6,5,42,1
+1227,"Mindfulness Meditation",24,29,30,32,"Other",16,13,7,5,46,1
+1228,"Control",26,26,27,31,"Male",14,11,6,6,41,0
+1229,"Cognitive Behavioral Therapy",25,31,33,32,"Other",12,7,7,6,45,1
+1230,"Mindfulness Meditation",25,30,31,36,"Female",13,10,7,6,50,1
+1231,"Control",24,26,27,33,"Other",11,9,7,6,50,0
+1232,"Cognitive Behavioral Therapy",27,33,34,35,"Other",18,14,6,7,56,1
+1233,"Mindfulness Meditation",25,30,31,26,"Male",16,14,8,5,41,1
+1234,"Control",23,24,25,34,"Other",15,13,6,7,49,0
+1235,"Cognitive Behavioral Therapy",25,31,32,21,"Male",12,10,6,4,43,1
+1236,"Mindfulness Meditation",23,28,28,31,"Male",18,14,6,6,54,1
+1237,"Control",25,26,27,36,"Male",16,13,6,7,41,0
+1238,"Cognitive Behavioral Therapy",25,31,32,38,"Other",10,7,7,5,48,1
+1239,"Mindfulness Meditation",26,31,31,29,"Female",14,10,7,4,57,1
+1240,"Control",26,27,27,32,"Female",14,10,8,4,50,0
+1241,"Cognitive Behavioral Therapy",24,30,31,23,"Female",14,11,7,6,49,1
+1242,"Mindfulness Meditation",26,31,32,20,"Other",15,13,8,4,53,1
+1243,"Control",26,27,28,28,"Female",16,13,6,6,50,0
+1244,"Cognitive Behavioral Therapy",24,30,31,29,"Male",19,16,7,7,53,1
+1245,"Mindfulness Meditation",24,28,29,27,"Other",15,11,7,3,49,0
+1246,"Control",26,27,28,24,"Female",13,12,6,6,52,0
+1247,"Cognitive Behavioral Therapy",25,31,32,22,"Male",11,8,8,3,42,1
+1248,"Mindfulness Meditation",26,30,31,33,"Female",16,14,7,4,48,0
+1249,"Control",26,28,29,33,"Male",14,10,7,4,44,0
+1250,"Cognitive Behavioral Therapy",25,30,31,27,"Other",17,13,6,6,60,1
+1251,"Mindfulness Meditation",26,30,31,36,"Other",12,9,7,7,55,0
+1252,"Control",26,27,28,28,"Other",14,11,6,4,56,0
+1253,"Cognitive Behavioral Therapy",25,30,31,33,"Male",11,9,6,4,51,1
+1254,"Mindfulness Meditation",25,31,32,25,"Male",17,14,8,7,52,1
+1255,"Control",26,27,28,31,"Male",14,11,7,5,56,0
+1256,"Cognitive Behavioral Therapy",24,30,31,31,"Male",23,20,7,5,58,1
+1257,"Mindfulness Meditation",24,29,30,29,"Other",14,11,7,4,53,1
+1258,"Control",26,27,28,33,"Male",13,9,8,4,56,0
+1259,"Cognitive Behavioral Therapy",25,30,30,27,"Female",21,18,7,3,49,1
+1260,"Mindfulness Meditation",25,29,30,18,"Female",21,18,8,4,44,0
+1261,"Control",26,26,27,26,"Male",20,17,8,7,47,0
+1262,"Cognitive Behavioral Therapy",26,32,34,32,"Other",16,12,6,5,42,1
+1263,"Mindfulness Meditation",25,29,30,19,"Other",17,16,8,6,59,0
+1264,"Control",25,26,26,19,"Other",18,14,6,5,53,0
+1265,"Cognitive Behavioral Therapy",25,31,33,28,"Female",18,15,6,5,48,1
+1266,"Mindfulness Meditation",26,31,32,29,"Other",13,9,8,5,54,1
+1267,"Control",25,26,27,34,"Female",13,10,7,3,48,0
+1268,"Cognitive Behavioral Therapy",26,32,33,28,"Other",18,15,6,5,50,1
+1269,"Mindfulness Meditation",25,30,32,31,"Other",11,6,7,7,53,1
+1270,"Control",26,27,28,29,"Female",16,13,7,3,56,0
+1271,"Cognitive Behavioral Therapy",26,32,32,32,"Female",13,10,7,6,52,1
+1272,"Mindfulness Meditation",26,30,32,33,"Other",21,17,6,5,59,0
+1273,"Control",25,27,28,21,"Other",18,15,6,6,42,0
+1274,"Cognitive Behavioral Therapy",25,31,31,25,"Female",17,14,6,4,41,1
+1275,"Mindfulness Meditation",25,30,31,33,"Male",16,13,8,6,48,1
+1276,"Control",25,27,28,17,"Female",13,9,7,4,45,0
+1277,"Cognitive Behavioral Therapy",25,31,33,15,"Female",14,13,7,5,54,1
+1278,"Mindfulness Meditation",26,31,32,29,"Male",15,12,7,6,58,1
+1279,"Control",25,26,27,28,"Male",16,11,7,6,42,0
+1280,"Cognitive Behavioral Therapy",25,31,32,26,"Other",16,12,7,6,50,1
+1281,"Mindfulness Meditation",25,30,32,32,"Male",7,5,7,5,58,1
+1282,"Control",25,26,26,34,"Female",16,12,7,7,58,0
+1283,"Cognitive Behavioral Therapy",25,30,31,33,"Other",17,14,6,6,43,1
+1284,"Mindfulness Meditation",23,28,29,27,"Other",18,15,6,4,47,1
+1285,"Control",24,25,26,28,"Other",20,16,7,6,41,0
+1286,"Cognitive Behavioral Therapy",25,31,33,30,"Other",18,16,7,6,54,1
+1287,"Mindfulness Meditation",25,30,31,17,"Male",18,13,7,6,42,1
+1288,"Control",24,26,27,23,"Male",14,11,7,5,42,0
+1289,"Cognitive Behavioral Therapy",23,29,30,32,"Female",13,10,7,6,58,1
+1290,"Mindfulness Meditation",25,30,32,29,"Male",12,10,7,5,53,1
+1291,"Control",26,27,28,21,"Other",20,17,8,4,57,0
+1292,"Cognitive Behavioral Therapy",27,33,35,34,"Female",9,7,7,4,54,1
+1293,"Mindfulness Meditation",25,30,31,30,"Female",16,13,7,6,60,1
+1294,"Control",26,26,26,25,"Female",15,11,7,4,51,0
+1295,"Cognitive Behavioral Therapy",25,31,32,28,"Male",16,13,7,6,49,1
+1296,"Mindfulness Meditation",25,30,30,28,"Male",18,14,6,5,51,1
+1297,"Control",25,26,26,27,"Male",11,7,7,6,47,0
+1298,"Cognitive Behavioral Therapy",24,30,31,27,"Other",17,15,7,4,56,1
+1299,"Mindfulness Meditation",25,30,31,27,"Female",16,13,6,4,57,1
+1300,"Control",26,26,27,31,"Male",15,10,7,5,57,0
+1301,"Cognitive Behavioral Therapy",24,30,32,33,"Male",14,10,7,4,57,1
+1302,"Mindfulness Meditation",25,29,30,31,"Other",16,14,7,6,41,0
+1303,"Control",24,25,26,37,"Other",13,10,7,4,41,0
+1304,"Cognitive Behavioral Therapy",25,31,32,31,"Female",16,13,7,5,42,1
+1305,"Mindfulness Meditation",25,30,31,30,"Other",15,11,8,6,49,1
+1306,"Control",26,27,29,32,"Other",10,7,6,7,59,0
+1307,"Cognitive Behavioral Therapy",24,31,32,27,"Other",20,18,8,6,49,1
+1308,"Mindfulness Meditation",25,30,31,32,"Male",21,17,7,7,47,1
+1309,"Control",24,25,26,38,"Other",18,16,7,4,41,0
+1310,"Cognitive Behavioral Therapy",25,30,31,27,"Male",14,12,6,7,49,1
+1311,"Mindfulness Meditation",26,31,31,33,"Other",13,10,8,7,48,1
+1312,"Control",24,25,26,28,"Male",18,13,6,6,47,0
+1313,"Cognitive Behavioral Therapy",26,32,32,24,"Female",18,14,7,6,44,1
+1314,"Mindfulness Meditation",24,29,30,34,"Other",18,16,7,6,41,1
+1315,"Control",25,26,27,30,"Male",14,13,7,5,52,0
+1316,"Cognitive Behavioral Therapy",25,31,32,26,"Female",18,16,7,5,58,1
+1317,"Mindfulness Meditation",24,29,30,37,"Other",20,16,7,5,56,1
+1318,"Control",23,25,26,19,"Other",16,13,8,5,60,0
+1319,"Cognitive Behavioral Therapy",26,32,32,28,"Female",16,13,8,3,45,1
+1320,"Mindfulness Meditation",25,30,31,27,"Male",15,11,6,6,53,1
+1321,"Control",24,24,26,27,"Male",11,7,7,7,52,0
+1322,"Cognitive Behavioral Therapy",23,28,29,29,"Other",12,8,8,4,48,1
+1323,"Mindfulness Meditation",27,32,34,37,"Other",13,11,8,4,48,1
+1324,"Control",28,29,30,18,"Other",16,15,6,4,54,0
+1325,"Cognitive Behavioral Therapy",25,31,31,33,"Male",16,14,7,5,48,1
+1326,"Mindfulness Meditation",26,32,33,24,"Male",19,15,7,3,60,1
+1327,"Control",26,26,27,33,"Other",12,8,6,4,59,0
+1328,"Cognitive Behavioral Therapy",24,30,30,26,"Other",15,14,7,5,54,1
+1329,"Mindfulness Meditation",25,30,30,32,"Male",14,11,7,6,47,1
+1330,"Control",23,25,26,27,"Male",16,12,8,5,44,0
+1331,"Cognitive Behavioral Therapy",24,31,32,25,"Male",17,14,6,6,52,1
+1332,"Mindfulness Meditation",26,31,31,22,"Male",20,19,8,6,46,1
+1333,"Control",25,25,25,23,"Female",20,17,6,4,47,0
+1334,"Cognitive Behavioral Therapy",25,30,31,26,"Female",21,18,7,3,50,1
+1335,"Mindfulness Meditation",25,30,31,28,"Male",17,15,6,5,53,1
+1336,"Control",23,24,25,31,"Female",20,16,7,3,47,0
+1337,"Cognitive Behavioral Therapy",26,32,34,28,"Male",12,9,6,3,60,1
+1338,"Mindfulness Meditation",24,29,30,34,"Female",15,13,8,4,55,1
+1339,"Control",25,27,28,22,"Male",19,15,6,7,44,0
+1340,"Cognitive Behavioral Therapy",25,31,33,31,"Male",14,11,7,5,47,1
+1341,"Mindfulness Meditation",25,29,30,33,"Female",16,13,6,4,43,0
+1342,"Control",26,26,27,31,"Male",17,13,7,7,56,0
+1343,"Cognitive Behavioral Therapy",24,29,30,27,"Female",14,9,8,4,47,1
+1344,"Mindfulness Meditation",24,29,30,25,"Other",19,16,8,6,48,1
+1345,"Control",23,24,25,21,"Female",17,16,7,6,44,0
+1346,"Cognitive Behavioral Therapy",24,30,30,20,"Male",13,9,8,6,59,1
+1347,"Mindfulness Meditation",24,29,30,31,"Male",19,15,7,4,48,1
+1348,"Control",25,26,27,26,"Other",11,8,7,7,58,0
+1349,"Cognitive Behavioral Therapy",24,29,30,20,"Female",18,16,6,4,41,1
+1350,"Mindfulness Meditation",25,29,31,31,"Female",13,9,8,7,55,0
+1351,"Control",25,25,26,32,"Female",17,15,7,3,51,0
+1352,"Cognitive Behavioral Therapy",24,30,31,17,"Female",16,13,8,5,47,1
+1353,"Mindfulness Meditation",24,29,31,37,"Female",19,14,8,4,41,1
+1354,"Control",26,27,29,34,"Other",16,13,6,4,51,0
+1355,"Cognitive Behavioral Therapy",26,33,34,22,"Female",18,15,8,3,44,1
+1356,"Mindfulness Meditation",27,33,35,24,"Female",13,10,8,3,43,1
+1357,"Control",25,27,28,29,"Female",15,12,8,6,48,0
+1358,"Cognitive Behavioral Therapy",24,30,31,30,"Female",18,14,8,5,47,1
+1359,"Mindfulness Meditation",24,29,29,22,"Male",12,8,7,5,42,1
+1360,"Control",25,25,26,25,"Male",12,9,8,6,49,0
+1361,"Cognitive Behavioral Therapy",27,33,34,43,"Male",15,13,6,5,52,1
+1362,"Mindfulness Meditation",25,30,30,33,"Male",15,11,8,4,59,1
+1363,"Control",26,26,26,35,"Female",15,11,7,7,43,0
+1364,"Cognitive Behavioral Therapy",26,32,33,24,"Other",22,19,8,7,43,1
+1365,"Mindfulness Meditation",24,29,30,26,"Female",10,6,7,3,49,1
+1366,"Control",25,27,28,21,"Male",12,8,6,6,47,0
+1367,"Cognitive Behavioral Therapy",26,34,35,30,"Male",13,10,7,5,52,1
+1368,"Mindfulness Meditation",26,31,32,28,"Male",19,16,8,5,56,1
+1369,"Control",25,27,28,40,"Other",19,17,8,5,44,0
+1370,"Cognitive Behavioral Therapy",25,31,32,26,"Female",12,9,7,3,42,1
+1371,"Mindfulness Meditation",25,31,32,28,"Male",12,8,7,6,44,1
+1372,"Control",24,26,27,23,"Female",14,13,7,6,60,0
+1373,"Cognitive Behavioral Therapy",26,32,33,29,"Female",9,6,7,4,57,1
+1374,"Mindfulness Meditation",24,28,30,24,"Other",16,15,8,6,46,0
+1375,"Control",24,25,26,23,"Male",15,11,7,4,46,0
+1376,"Cognitive Behavioral Therapy",26,32,35,27,"Other",10,8,8,3,51,1
+1377,"Mindfulness Meditation",24,29,30,23,"Other",14,10,7,4,57,1
+1378,"Control",24,24,26,24,"Other",15,13,7,6,52,0
+1379,"Cognitive Behavioral Therapy",24,30,31,31,"Other",18,14,6,5,43,1
+1380,"Mindfulness Meditation",26,30,30,33,"Female",15,12,7,7,58,0
+1381,"Control",25,26,26,32,"Other",13,11,7,5,42,0
+1382,"Cognitive Behavioral Therapy",25,30,31,28,"Female",13,10,7,5,46,1
+1383,"Mindfulness Meditation",25,30,32,28,"Male",19,15,8,6,55,1
+1384,"Control",26,27,29,24,"Other",14,11,7,6,60,0
+1385,"Cognitive Behavioral Therapy",26,32,33,29,"Male",16,11,6,4,50,1
+1386,"Mindfulness Meditation",23,28,29,33,"Other",16,13,7,5,40,1
+1387,"Control",25,27,28,23,"Other",16,12,7,5,51,0
+1388,"Cognitive Behavioral Therapy",25,31,32,33,"Male",10,7,7,6,59,1
+1389,"Mindfulness Meditation",26,32,33,25,"Male",17,12,6,5,42,1
+1390,"Control",24,25,26,30,"Male",19,17,8,4,50,0
+1391,"Cognitive Behavioral Therapy",25,31,32,21,"Female",21,18,7,5,58,1
+1392,"Mindfulness Meditation",24,29,30,29,"Other",11,7,7,4,56,1
+1393,"Control",26,28,29,35,"Other",12,10,7,3,50,0
+1394,"Cognitive Behavioral Therapy",26,32,33,28,"Female",16,13,7,6,51,1
+1395,"Mindfulness Meditation",26,31,33,20,"Male",13,8,6,7,50,1
+1396,"Control",24,25,25,36,"Other",19,18,7,7,50,0
+1397,"Cognitive Behavioral Therapy",25,31,32,24,"Male",10,6,7,7,44,1
+1398,"Mindfulness Meditation",26,31,32,23,"Other",16,13,7,6,47,1
+1399,"Control",25,26,27,25,"Male",16,15,6,5,40,0
+1400,"Cognitive Behavioral Therapy",24,30,30,23,"Other",18,16,7,5,54,1
+1401,"Mindfulness Meditation",24,28,29,29,"Female",18,15,8,5,44,0
+1402,"Control",24,25,26,30,"Female",15,12,6,5,58,0
+1403,"Cognitive Behavioral Therapy",26,32,33,26,"Other",10,6,6,4,46,1
+1404,"Mindfulness Meditation",25,30,30,32,"Female",16,14,7,4,52,1
+1405,"Control",25,26,29,30,"Male",16,13,7,5,53,0
+1406,"Cognitive Behavioral Therapy",26,32,33,22,"Male",9,5,7,6,43,1
+1407,"Mindfulness Meditation",26,32,33,31,"Other",18,14,7,3,46,1
+1408,"Control",26,27,27,22,"Male",15,13,7,4,54,0
+1409,"Cognitive Behavioral Therapy",23,29,30,28,"Male",12,8,7,6,58,1
+1410,"Mindfulness Meditation",25,29,31,27,"Male",16,14,7,4,57,0
+1411,"Control",25,27,28,24,"Male",18,16,7,3,49,0
+1412,"Cognitive Behavioral Therapy",26,32,33,34,"Female",17,13,7,3,58,1
+1413,"Mindfulness Meditation",24,29,30,28,"Male",14,12,8,4,53,1
+1414,"Control",26,27,29,31,"Male",22,19,7,6,53,0
+1415,"Cognitive Behavioral Therapy",25,30,31,28,"Female",14,12,7,7,54,1
+1416,"Mindfulness Meditation",25,30,31,24,"Female",16,13,7,6,46,1
+1417,"Control",26,27,28,31,"Other",16,12,7,5,52,0
+1418,"Cognitive Behavioral Therapy",25,31,32,24,"Female",18,16,7,6,54,1
+1419,"Mindfulness Meditation",26,30,31,32,"Male",18,14,7,5,52,0
+1420,"Control",26,27,28,40,"Other",15,12,8,5,47,0
+1421,"Cognitive Behavioral Therapy",25,30,31,30,"Male",15,12,8,5,57,1
+1422,"Mindfulness Meditation",26,31,33,31,"Male",12,10,7,6,49,1
+1423,"Control",25,25,27,30,"Female",16,13,7,4,52,0
+1424,"Cognitive Behavioral Therapy",26,32,33,34,"Other",17,14,8,6,42,1
+1425,"Mindfulness Meditation",24,29,30,22,"Other",14,9,7,6,46,1
+1426,"Control",27,29,30,23,"Male",18,13,6,6,41,0
+1427,"Cognitive Behavioral Therapy",25,31,32,28,"Male",15,10,7,5,60,1
+1428,"Mindfulness Meditation",26,31,32,28,"Female",17,13,7,3,47,1
+1429,"Control",25,26,27,22,"Other",13,11,6,6,57,0
+1430,"Cognitive Behavioral Therapy",25,31,32,19,"Other",18,14,8,7,59,1
+1431,"Mindfulness Meditation",26,31,32,26,"Female",11,7,8,7,48,1
+1432,"Control",23,25,26,36,"Male",21,18,8,3,51,0
+1433,"Cognitive Behavioral Therapy",25,31,32,39,"Male",14,10,7,7,53,1
+1434,"Mindfulness Meditation",25,30,32,32,"Other",11,9,7,6,45,1
+1435,"Control",22,23,24,20,"Female",12,9,6,4,58,0
+1436,"Cognitive Behavioral Therapy",25,32,33,32,"Male",9,7,6,7,58,1
+1437,"Mindfulness Meditation",23,28,29,25,"Male",14,10,6,5,48,1
+1438,"Control",26,28,28,29,"Female",16,13,8,3,46,0
+1439,"Cognitive Behavioral Therapy",25,30,32,31,"Male",13,10,7,6,57,1
+1440,"Mindfulness Meditation",24,29,29,36,"Male",14,11,7,6,50,1
+1441,"Control",25,27,29,29,"Other",11,8,6,4,55,0
+1442,"Cognitive Behavioral Therapy",26,33,33,24,"Male",18,14,8,6,46,1
+1443,"Mindfulness Meditation",24,29,30,32,"Female",15,13,8,4,44,1
+1444,"Control",26,27,28,32,"Other",16,13,7,5,50,0
+1445,"Cognitive Behavioral Therapy",25,31,32,33,"Female",21,18,7,6,41,1
+1446,"Mindfulness Meditation",24,29,29,34,"Male",18,15,6,6,44,1
+1447,"Control",23,24,26,29,"Female",11,9,7,7,57,0
+1448,"Cognitive Behavioral Therapy",23,29,29,23,"Other",18,17,6,6,54,1
+1449,"Mindfulness Meditation",26,32,33,29,"Female",10,8,7,5,60,1
+1450,"Control",25,27,27,19,"Other",24,21,6,4,56,0
+1451,"Cognitive Behavioral Therapy",27,33,34,34,"Female",19,16,6,5,59,1
+1452,"Mindfulness Meditation",26,32,33,31,"Other",10,7,6,4,55,1
+1453,"Control",26,27,28,32,"Female",12,9,8,3,51,0
+1454,"Cognitive Behavioral Therapy",26,32,33,29,"Female",20,17,6,5,58,1
+1455,"Mindfulness Meditation",24,29,30,16,"Other",12,11,8,6,53,1
+1456,"Control",26,27,28,25,"Other",22,19,6,5,48,0
+1457,"Cognitive Behavioral Therapy",26,32,33,33,"Female",19,16,6,4,60,1
+1458,"Mindfulness Meditation",26,31,31,27,"Female",18,15,8,4,55,1
+1459,"Control",26,27,28,32,"Female",14,11,6,6,59,0
+1460,"Cognitive Behavioral Therapy",25,30,30,23,"Other",20,18,6,6,43,1
+1461,"Mindfulness Meditation",24,29,30,29,"Other",16,14,7,4,54,1
+1462,"Control",26,28,30,25,"Other",18,13,8,4,57,0
+1463,"Cognitive Behavioral Therapy",26,31,31,25,"Female",13,9,8,4,51,1
+1464,"Mindfulness Meditation",26,32,33,27,"Male",17,14,6,6,57,1
+1465,"Control",25,25,26,37,"Other",12,10,6,7,57,0
+1466,"Cognitive Behavioral Therapy",25,31,32,29,"Male",13,10,7,6,42,1
+1467,"Mindfulness Meditation",25,29,30,29,"Male",14,11,8,7,58,0
+1468,"Control",26,26,27,36,"Male",19,16,7,7,50,0
+1469,"Cognitive Behavioral Therapy",25,31,32,27,"Female",16,13,6,4,51,1
+1470,"Mindfulness Meditation",24,29,30,31,"Other",14,12,6,6,46,1
+1471,"Control",25,27,28,24,"Male",12,11,7,6,42,0
+1472,"Cognitive Behavioral Therapy",24,30,30,32,"Other",13,10,7,7,50,1
+1473,"Mindfulness Meditation",24,30,31,21,"Female",16,10,7,4,48,1
+1474,"Control",25,27,28,28,"Female",16,12,7,4,43,0
+1475,"Cognitive Behavioral Therapy",23,28,28,34,"Other",14,11,7,4,40,1
+1476,"Mindfulness Meditation",23,28,28,35,"Male",13,8,8,3,57,1
+1477,"Control",26,27,28,28,"Male",9,6,7,6,47,0
+1478,"Cognitive Behavioral Therapy",24,30,30,16,"Female",16,12,6,6,48,1
+1479,"Mindfulness Meditation",23,29,30,36,"Male",14,12,7,5,45,1
+1480,"Control",25,26,27,25,"Other",15,13,7,5,48,0
+1481,"Cognitive Behavioral Therapy",26,33,34,32,"Other",15,10,8,7,50,1
+1482,"Mindfulness Meditation",26,33,34,20,"Other",9,7,8,4,41,1
+1483,"Control",25,26,27,26,"Other",15,13,8,6,41,0
+1484,"Cognitive Behavioral Therapy",26,31,32,36,"Male",20,16,7,5,55,1
+1485,"Mindfulness Meditation",24,29,29,30,"Female",21,17,6,3,41,1
+1486,"Control",26,27,28,30,"Female",10,5,8,3,44,0
+1487,"Cognitive Behavioral Therapy",24,31,31,32,"Male",15,13,7,4,57,1
+1488,"Mindfulness Meditation",25,30,31,21,"Female",9,8,6,7,48,1
+1489,"Control",27,28,30,28,"Other",13,10,8,4,47,0
+1490,"Cognitive Behavioral Therapy",26,31,32,30,"Male",20,18,6,6,59,1
+1491,"Mindfulness Meditation",26,32,33,34,"Female",17,15,8,6,54,1
+1492,"Control",24,25,26,24,"Male",14,11,7,6,42,0
+1493,"Cognitive Behavioral Therapy",24,30,31,29,"Female",14,11,6,4,56,1
+1494,"Mindfulness Meditation",27,32,33,31,"Female",15,14,7,4,47,1
+1495,"Control",24,24,25,47,"Female",11,8,8,4,59,0
+1496,"Cognitive Behavioral Therapy",25,31,32,36,"Female",15,11,6,5,45,1
+1497,"Mindfulness Meditation",26,31,32,16,"Female",12,10,6,5,45,1
+1498,"Control",26,27,28,28,"Female",11,7,8,3,45,0
+1499,"Cognitive Behavioral Therapy",26,33,34,29,"Male",13,9,7,4,51,1
+1500,"Mindfulness Meditation",25,30,31,32,"Male",18,15,8,6,48,1
